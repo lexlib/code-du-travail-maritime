@@ -1,10 +1,10 @@
 # Code du travail maritime  
-Version Consolidée au 1993-09-02
+Version Consolidée au 1995-02-05
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 15-2)](#2)
   - [Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires (art. 16 à 30)](#3)
-  - [Titre 3 : Obligations du marin envers l'armateur et réglementation du travail à bord des navires (art. 25 à 28)](#4)
+  - [Titre 3 : Obligations du marin envers l'armateur et réglementation du travail à bord des navires (art. 24-1 à 28)](#4)
   - [Titre 4 : Des obligations de l'armateur envers le marin (art. 31 à 92-1)](#5)
     - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 31 à 70)](#6)
       - [Section 1 : Des divers modes de rémunération des marins et des règles de base à la liquidation des salaires (art. 31)](#7)
@@ -815,6 +815,92 @@ _Nouveaux textes_:
   - Code des transports - art. L5544-4 (V)
 
 
+###### Article 25
+
+Des décrets en conseil des ministres déterminent, le cas échéant, par genre de navigation ou catégorie de personnel les
+modalités d'application de l'article 24. Ils fixent notamment l'aménagement et la répartition des horaires de travail dans la
+semaine ou dans une période de temps autre que la semaine, pour tenir compte de la continuité de l'activité du navire, des
+contraintes portuaires et des nécessités de la sauvegarde de la sécurité des biens et des personnes en mer et aux ports. Ils
+fixent également les mesures de contrôle des heures de travail et de repos et de la durée du travail effectif ainsi que la
+procédure suivant laquelle les dérogations sont accordées ou utilisées. 
+
+Ces décrets sont pris et revisés après consultation des organisations les plus représentatives des marins et des armateurs.
+Ils fixent les limites dans lesquelles des heures supplémentaires peuvent être effectuées au-delà de la durée fixée à
+l'article L. 212-1 du code du travail (1). 
+
+Il peut être dérogé par convention ou accord collectif étendus ou par accord collectif d'entreprise ou d'établissement à
+celles des dispositions de ces décrets qui sont relatives à l'aménagement et à la répartition des horaires de travail pour
+tenir compte des contraintes propres aux diverses activités maritimes. 
+
+En cas de dénonciation ou de non-renouvellement de ces conventions ou accords collectifs, les dispositions de ces décrets
+auxquelles il avait été dérogé redeviennent applicables.
+
+**Nota:**
+
+(1) L'article L212-1 a été abrogé par l'ordonnance n° 2007-329 du 12 mars 2007 et codifié sous les articles L3121-10 et
+L3121-34 du code du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 10 (V)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 11 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 12 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 13 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 14 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 15 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 16 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 17 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 18 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 19 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 20 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 21 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 22 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 23 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 24 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 7 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 8 (Ab)
+  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 9 (Ab)
+
+_Cité par_:
+
+  - Décret n°83-795 du 6 septembre 1983 - art. 2 (Ab)
+  - Décret n°2005-305 du 31 mars 2005 - art. 22 (V)
+  - Code de la recherche - art. L411-5 (T)
+  - Code de la recherche - art. L431-3 (V)
+  - Code du travail maritime - art. 104 (M)
+
+_Modifié par_:
+
+  - Loi n°95-116 1995-02-04 art. 88 I 2° JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cite_:
+
+  - Code du travail - art. L212-1 (VT)
+  - Code du travail maritime - art. 24 (V)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-4 (V)
+  - Code des transports - art. L5544-5 (V)
+
+
 ###### Article 26
 
 La rémunération du travail est fixée par le contrat d'engagement, dans le cadre des conventions ou accords collectifs
@@ -925,25 +1011,11 @@ _Nouveaux textes_:
 
 # Titre 3 : Obligations du marin envers l'armateur et réglementation du travail à bord des navires<a id=4></a>
 
-###### Article 25
+###### Article 24-1
 
-Des décrets en conseil des ministres déterminent, le cas échéant, par genre de navigation ou catégorie de personnel, les
-modalités d'application de l'article précédent. Ils fixent notamment l'aménagement et la répartition des horaires de travail
-dans la semaine ou dans une période de temps autre que la semaine, pour tenir compte de la continuité de l'activité du
-navire, des contraintes portuaires et des nécessités de la sauvegarde de la sécurité des biens et des personnes en mer et aux
-ports. Ils fixent également les mesures de contrôle des heures de travail et de repos et de la durée du travail effectif
-ainsi que la procédure suivant laquelle les dérogations sont accordées ou utilisées. 
-
-Ces décrets sont pris et revisés après consultation des organisations les plus représentatives des marins et des armateurs.
-Ils fixent les limites dans lesquelles des heures supplémentaires peuvent être effectuées au-delà de la durée fixée à
-l'article L. 212-1 du Code du travail. 
-
-Il peut être dérogé par convention ou accord collectif étendus ou par accord collectif d'entreprise ou d'établissement à
-celles des dispositions de ces décrets qui sont relatives à l'aménagement et à la répartition des horaires de travail pour
-tenir compte des contraintes propres aux diverses activités maritimes. 
-
-En cas de dénonciation ou de non-renouvellement de ces conventions ou accords collectifs, les dispositions de ces décrets
-auxquelles il avait été dérogé redeviennent applicables.
+Les dispositions des articles L. 212-4-2 à L. 214-4-7 du code du travail sont applicables aux personnels navigants des
+entreprises d'armement maritime dans des conditions déterminées, compte tenu des adaptations nécessaires, par décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -951,51 +1023,18 @@ _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°54-1037 1954-10-22 art. 2 JORF 23 octobre 1954
-  - Ordonnance 58-1358 1958-12-27 art. 3 JORF 30 décembre 1958
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 10 (V)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 11 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 12 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 13 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 14 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 15 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 16 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 17 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 18 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 19 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 20 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 21 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 22 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 23 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 24 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 3 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 5 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 6 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 7 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 8 (Ab)
-  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 9 (Ab)
-  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
+  - Loi n°95-116 1995-02-04 art. 88 I 1° JORF 5 février 1995
 
 _Cité par_:
 
-  - Décret n°83-795 du 6 septembre 1983 - art. 2 (Ab)
-  - Décret n°2005-305 du 31 mars 2005 - art. 22 (V)
-  - Code de la recherche - art. L411-5 (T)
-  - Code de la recherche - art. L431-3 (V)
-  - Code du travail maritime - art. 104 (M)
+  - Décret n°96-20 du 8 janvier 1996 - art. 1 (V)
+  - Code des pensions de retraite des marins frança... - art. L50 (VT)
 
 _Cite_:
 
-  - Code du travail - art. L212-1 (M)
+  - Code du travail L212-4-2 à L214-4-7
 
 
 ###### Article 26-1
