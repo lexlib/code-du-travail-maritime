@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1989-08-08
+Version Consolidée au 1993-09-02
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 15-2)](#2)
@@ -9,7 +9,7 @@ Version Consolidée au 1989-08-08
     - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 31 à 70)](#6)
       - [Section 1 : Des divers modes de rémunération des marins et des règles de base à la liquidation des salaires (art. 31)](#7)
       - [Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires (art. 32 à 47)](#8)
-      - [Section 2 : De la suspension et de la rétention des salaires (art. 49)](#9)
+      - [Section 2 : De la suspension et de la rétention des salaires (art. 48 à 49)](#9)
       - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 51 à 56)](#10)
       - [Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations (art. 59 à 65)](#11)
       - [Section 5 : Des dettes des marins - Des saisies et cessions de salaires (art. 66 à 70)](#12)
@@ -21,7 +21,7 @@ Version Consolidée au 1989-08-08
   - [Titre 4 : Obligations de l'armateur envers le marin (art. 33 à 85)](#18)
     - [Chapitre 1 : Salaires fixes, profits éventuels et autres rémunérations (art. 33 à 71)](#19)
       - [Section 1 : Divers modes de rémunération des marins et règles de base à la liquidation des salaires (art. 33 à 34)](#20)
-      - [Section 2 : Suspension et rétention des salaires (art. 48 à 50)](#21)
+      - [Section 2 : Suspension et rétention des salaires (art. 50)](#21)
       - [Section 3 : Lieux et époques de liquidation et paiement des salaires (art. 52 à 57)](#22)
       - [Section 4 : Avances, acomptes, délégations (art. 58 à 62)](#23)
       - [Section 5 : Dettes des marins (art. 71)](#24)
@@ -1473,6 +1473,45 @@ _Nouveaux textes_:
 
 ### Section 2 : De la suspension et de la rétention des salaires<a id=9></a>
 
+###### Article 48
+
+Le marin qui, étant de service, s'absente sans autorisation ou qui se trouve absent, sans autorisation, au moment où il doit
+prendre son service, perd le droit aux salaires afférents au temps de son absence. 
+
+L'armateur peut, s'il y a lieu, réclamer des dommages-intérêts pour le préjudice qu'aura pu lui causer le marin qui, étant de
+service, s'absente du bord sans autorisation, ou le marin qui, n'étant pas de service, s'absente du bord en inobservation des
+mesures prises par le capitaine, conformément aux dispositions de l'article 19.
+
+Le marin perd son salaire à partir du moment où il a été privé de sa liberté comme personne mise en examen en raison d'une
+infraction à la loi pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cité par_:
+
+  - Code du travail maritime - art. 105 (V)
+
+_Cite_:
+
+  - Code du travail maritime - art. 19 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Code du travail maritime 105 : non application au capitaine
+
+
 ###### Article 49
 
 Dans le cas où le contrat d'engagement a été rompu par suite de congédiement du marin pour absence irrégulière, les salaires
@@ -2298,37 +2337,6 @@ _Cité par_:
 
 
 ### Section 2 : Suspension et rétention des salaires<a id=21></a>
-
-###### Article 48
-
-Le marin qui, étant de service, s'absente sans autorisation ou qui se trouve absent, sans autorisation, au moment où il doit
-prendre son service, perd le droit aux salaires afférents au temps de son absence. 
-
-L'armateur peut, s'il y a lieu, réclamer des dommages-intérêts pour le préjudice qu'aura pu lui causer le marin qui, étant de
-service, s'absente du bord sans autorisation, ou le marin qui n'étant pas de service, s'absente du bord en inobservation des
-mesures prises par le capitaine, conformément aux dispositions de l'article 19.
-
-Le marin perd son salaire à partir du moment où il a été privé de sa liberté comme inculpé en raison d'une infraction à la
-loi pénale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Cité par_:
-
-  - Code du travail maritime - art. 105 (V)
-
-_Cite_:
-
-  - Code du travail maritime - art. 19 (V)
-
-**Liens**:
-
-  - SPEC_APPLI: Code du travail maritime 105 : non application au capitaine
-
 
 ###### Article 50
 
