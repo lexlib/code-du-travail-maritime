@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1948-09-30
+Version Consolidée au 1950-07-30
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -32,7 +32,7 @@ Version Consolidée au 1948-09-30
     - [Chapitre 3 : Dispositions spéciales applicables aux marins étrangers (art. 119)](#29)
   - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 103 à 118)](#30)
     - [Chapitre 1 : Capitaine (art. 103 à 109)](#31)
-    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 113 à 118)](#32)
+    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 111 à 118)](#32)
   - [Titre 7 : Litiges entre armateurs et marins (art. 120 à 131)](#33)
 # Titre 1 : Dispositions générales<a id=1></a>
 
@@ -2281,6 +2281,30 @@ _Cite_:
 
 ## Chapitre 2 : Marins de moins de 21 ans et femmes mariées<a id=32></a>
 
+###### Article 111
+
+Tout mineur embarqué pour les services du pont, de la machine ou du service général, est qualifié mousse s'il est âgé de
+moins de seize ans, novice s'il est âgé de plus de seize ans et de moins de dix-huit ans.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+  - Décret n°2006-534 du 10 mai 2006 - art. 2 (VT)
+  - Code de l'éducation - art. D337-167 (Ab)
+  - Code de l'éducation - art. D337-179 (V)
+  - Code du travail maritime - art. 114 (V)
+
+_Abrogé par_:
+
+  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+_Codifié par_:
+
+  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
 ###### Article 113
 
 Dispositions abrogées.
@@ -2297,6 +2321,59 @@ _Cité par_:
   - Décret n°2006-534 du 10 mai 2006 - art. 14 (VT)
   - Code du travail maritime - art. 114 (V)
   - Code du travail maritime - art. 117 (M)
+
+_Codifié par_:
+
+  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
+###### Article 114
+
+Sur les navires de plus de 250 tonneaux de jauge brute, il est interdit de faire faire aux mousses le service de quart de
+nuit de vingt heures à quatre heures ; les mousses et novices ne peuvent être employés au travail des chaufferies et des
+soutes ni à la cuisine devant les feux. 
+
+Les mousses ou novices ne peuvent accomplir plus de huit heures de travail au cours d'une même journée, sauf pour les
+manoeuvres d'entrée et de sortie des ports. Les mousses doivent obligatoirement jouir du repos hebdomadaire, tant à la mer
+qu'au port, à la date normale, ou exceptionnellement avec un retard ne pouvant dépasser quarante-huit heures. 
+
+Dans le service de la machine, les mousses ou novices ne peuvent pas être compris dans les bordées de quart. Ils ne doivent
+pas être employés plus de quatre heures par jour dans les compartiments de la machine, ni lorsque l'élévation de la
+température peut constituer un danger pour leur santé.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+  - Décret n°2006-534 du 10 mai 2006 - art. 14 (VT)
+  - Code de l'éducation - art. D337-167 (Ab)
+  - Code de l'éducation - art. D337-179 (V)
+  - Code du travail maritime - art. 117 (M)
+
+_Codifié par_:
+
+  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
+###### Article 117
+
+Un décret en Conseil d'Etat déterminera dans quelles conditions les prescriptions des articles 113 et 114 ci-dessus sont
+applicables sur les navires de commerce de jauge brute égale ou inférieure à 250 tonneaux, sur les navires de pêche ainsi que
+sur les navires armés au cabotage national ou international d'une jauge brute inférieure à 3.000 tonneaux.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+  - Code du travail maritime - art. 111 (V)
+  - Code du travail maritime - art. 8 (M)
+
+_Cite_:
+
+  - Code du travail maritime - art. 113 (Ab)
+  - Code du travail maritime - art. 114 (M)
 
 _Codifié par_:
 
