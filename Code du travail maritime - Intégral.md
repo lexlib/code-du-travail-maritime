@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1997-11-19
+Version Consolidée au 1998-06-27
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 15-2)](#2)
@@ -26,7 +26,7 @@ Version Consolidée au 1997-11-19
     - [Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans. (art. 110 à 117)](#23)
     - [Chapitre 3 : Dispositions spéciales applicables aux marins étrangers (art. 119)](#24)
   - [Titre 7 : Des litiges entre armateurs et marins (art. 121)](#25)
-  - [Titre 8 : Inspection du travail maritime. (art. 122)](#26)
+  - [Titre 8 : Inspection du travail maritime. (art. 122 à 123)](#26)
   - [Titre 9 : Dispositions diverses (art. 133 à 134)](#27)
 # Titre 1 : Dispositions générales<a id=1></a>
 
@@ -4248,6 +4248,39 @@ _Cite_:
 _Codifié par_:
 
   - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
+###### Article 123
+
+Les officiers et fonctionnaires relevant du ministère chargé de la marine marchande, mentionnés au troisième alinéa de
+l'article L. 742-1 du code du travail, sont habilités à constater les infractions aux dispositions des régimes du travail
+applicables aux personnels embarqués sur les navires immatriculés dans un territoire d'outre-mer qui font escale dans un port
+d'un département français ou de Saint-Pierre-et-Miquelon.
+
+Pour les navires touchant les rades et ports étrangers, la constatation des infractions mentionnées à l'alinéa précédent est
+confiée à l'autorité consulaire, à l'exclusion des agents consulaires.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail - art. L742-1 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
+
+_Codifié par_:
+
+  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+_Créé par_:
+
+  - Ordonnance n°98-522 du 24 juin 1998 - art. 32 () JORF 27 juin 1998
+
+_Abrogé par_:
+
+  - Loi n°2006-10 du 5 janvier 2006 - art. 46 () JORF 6 janvier 2006
 
 
 # Titre 9 : Dispositions diverses<a id=27></a>
