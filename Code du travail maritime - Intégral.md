@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1959-05-12
+Version Consolidée au 1959-05-16
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -26,7 +26,7 @@ Version Consolidée au 1959-05-12
       - [Section 5 : Dettes des marins (art. 71)](#23)
         - [Saisies et cessions de salaires (art. 71)](#24)
     - [Chapitre 2 : Nourriture et couchage (art. 72 à 76)](#25)
-    - [Chapitre 3 : Maladies et blessures des marins (art. 81 à 85)](#26)
+    - [Chapitre 3 : Maladies et blessures des marins (art. 80 à 85)](#26)
   - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 104 à 119)](#27)
     - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 104 à 108)](#28)
     - [Chapitre 3 : Dispositions spéciales applicables aux marins étrangers (art. 119)](#29)
@@ -200,32 +200,21 @@ _Cité par_:
 
 ###### Article 7 bis
 
-Nul marin âgé de moins de vingt-cinq ans ne peut être inscrit au rôle d'équipage d'un navire de plus de 250 tonneaux de jauge
-brute, pour y remplir un emploi du pont, de la machine ou du navire radioélectrique, s'il n'est titulaire :
+Pour pouvoir être inscrit sur le rôle d'équipage d'un navire de plus de 250 tonneaux de jauge brute en vue d'y remplir un
+emploi du pont, de la machine ou du service général, les marins âgés de moins de vingt-cinq ans doivent justifier d'une
+formation professionnelle dans les conditions définies par le ministre chargé de la marine marchande.
 
-1° D'un certificat d'apprentissage maritime ou  d'un certificat attestant qu'il a fréquenté assidûment une école
-d'apprentissage maritime pendant la durée d'une session de formation, délivrés dans des conditions fixées par arrêté du
-ministre chargé de la marine marchande ;
+A cette fin, des arrêtés du ministre chargé de la marine marchande, pris après consultation des organisations
+professionnelles intéressées, déterminent : 
 
-2° Ou, pour les spécialités où la formation professionnelle est sanctionnée par le département de l'éducation nationale, d'un
-certificat d'aptitude professionnelle ou d'un diplôme au moins équivalent, délivré par les services de l'enseignement
-technique, sous réserve qu'il ait subi avec succès les épreuves d'un examen de formation nautique, après avoir suivi, dans
-des conditions fixées par arrêté du ministre chargé de la marine marchande, une session spéciale de formation dans une école
-d'apprentissage maritime ;
+1°  La liste des brevets, diplômes ou certificats consacrant cette formation professionnelle, selon les genres de navigation
+et les catégories professionnelles ; 
 
-3° Ou d'un certificat, diplôme ou brevet d'élève, d'élève officier ou d'officier de la marine marchande, ou du certificat
-spécial de radiotélégraphiste des postes, télégraphes et téléphones, ou d'un certificat attestant qu'il a suivi assidûment
-les cours d'une école nationale de la marine marchande pendant la durée d'une scolarité ;
+2° Les conditions d'admission dans les écoles d'apprentissage maritime, l'organisation et le fonctionnement de ces écoles,
+les modalités de délivrance des certificats consacrant la formation professionnelle qui y est dispensée ;
 
-4° Ou d'un des brevets de spécialité de la marine nationale figurant sur une liste fixée par arrêté conjoint du ministre
-chargé de la marine marchande et du ministre des forces armées.
-
-A défaut de candidats remplissant l'une ou l'autre des conditions ci-dessus mentionnées, des dispenses peuvent être accordées
-sauf pour l'embarquement d'un mousse ou d'un novice dans des conditions fixées par arrêté du ministre chargé de la marine
-marchande.
-
-Les conditions que doivent remplir les agents du service général pour être inscrits au rôle d'équipage des navires de plus de
-250 tonneaux de jauge brute, sont fixées par un arrêté du ministre chargé de la marine marchande.
+3° Les conditions dans lesquelles, en l'absence de candidats possédant la formation professionnelle requise, les dispenses
+peuvent être accordées.
 
 **Liens relatifs à cet article**
 
@@ -233,9 +222,9 @@ _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°55-691 du 20 mai 1955, art 1 v. init.
+  - Décret n°59-626 du 12 mai 1959, art 10 v. init.
 
 
 ###### Article 8
@@ -1940,6 +1929,53 @@ _Codifié par_:
 
 
 ## Chapitre 3 : Maladies et blessures des marins<a id=26></a>
+
+###### Article 80
+
+Les soins à donner au marin cessent d'être dus lorsque le marin est guéri ou lorsque la blessure est consolidée, ou lorsque
+l'état du malade après la crise aiguë a pris un caractère chronique. 
+
+En cas de contestation sur le caractère chronique de la maladie, si l'une ou l'autre des parties le demande, le marin est
+soumis avant la tentative de conciliation prévue à l'article 120 du Code du travail maritime, à l'examen pour avis d'une
+commission composée d'un médecin désigné par l'autorité maritime et de deux médecins choisis, l'un par l'armateur, l'autre
+par le marin, et agréés par l'autorité maritime. 
+
+En cas de carence de l'une des parties ou de son médecin, il est passé outre et la commission émet valablement son avis. 
+
+Les frais de visite ou d'expertise et les frais résultant du fonctionnement de la commission sont supportés par l'armateur si
+le marin est reconnu avoir encore besoin de soins et par le marin dans le cas contraire.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Dispositions réglementaires
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+
+_Modifié par_:
+
+  - Décret n°59-626 1959-05-12 art. 11 JORF 16 mai 1959
+
+_Cite_:
+
+  - Décret n°59-1337 du 20 novembre 1959 - art. 2 (V)
+  - Code du travail maritime - art. 120 (Ab)
+
 
 ###### Article 81
 
