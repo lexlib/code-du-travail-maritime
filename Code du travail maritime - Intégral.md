@@ -1,33 +1,32 @@
 # Code du travail maritime  
-Version Consolidée au 2003-01-18
+Version Consolidée au 2004-07-14
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 15-2)](#2)
   - [Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires (art. 16 à 30)](#3)
   - [Titre 4 : Des obligations de l'armateur envers le marin (art. 31 à 92-1)](#4)
     - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 31 à 71)](#5)
-      - [Section 1 : Des divers modes de rémunération des marins et des règles de base à la liquidation des salaires (art. 31)](#6)
-      - [Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires (art. 32 à 47)](#7)
-      - [Section 2 : De la suspension et de la rétention des salaires (art. 48 à 50)](#8)
-      - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 51 à 57)](#9)
-      - [Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations (art. 58 à 65)](#10)
-      - [Section 5 : Des dettes des marins - Des saisies et cessions de salaires (art. 66 à 71)](#11)
-    - [Chapitre 2 : De la nourriture et du couchage (art. 72 à 78)](#12)
-    - [Chapitre 3 : Des maladies et blessures des marins (art. 79 à 86)](#13)
-    - [Chapitre 4 : Du rapatriement et de la conduite (art. 87 à 90)](#14)
-    - [Chapitre 5 : Des créances et privilèges des marins (art. 91 à 92)](#15)
-    - [Chapitre 6 : Des congés payés (art. 92-1)](#16)
-  - [Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat (art. 93 à 102-24)](#17)
-    - [Chapitre 1 : Dispositions communes à tous les contrats d'engagement (art. 93 à 102)](#18)
-    - [Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée (art. 102-1 à 102-21)](#19)
-    - [Chapitre 3 : Dispositions spéciales au contrat d'engagement à durée déterminée ou au voyage (art. 102-22 à 102-24)](#20)
-  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 103 à 119)](#21)
-    - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 103 à 109)](#22)
-    - [Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans. (art. 110 à 117)](#23)
-    - [Chapitre 3 : Dispositions spéciales applicables aux marins étrangers (art. 119)](#24)
-  - [Titre 7 : Des litiges entre armateurs et marins (art. 121)](#25)
-  - [Titre 8 : Inspection du travail maritime. (art. 122 à 123)](#26)
-  - [Titre 9 : Dispositions diverses (art. 133 à 134)](#27)
+      - [Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires (art. 31 à 47)](#6)
+      - [Section 2 : De la suspension et de la rétention des salaires (art. 48 à 50)](#7)
+      - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 51 à 57)](#8)
+      - [Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations (art. 58 à 65)](#9)
+      - [Section 5 : Des dettes des marins - Des saisies et cessions de salaires (art. 66 à 71)](#10)
+    - [Chapitre 2 : De la nourriture et du couchage (art. 72 à 78)](#11)
+    - [Chapitre 3 : Des maladies et blessures des marins (art. 79 à 86)](#12)
+    - [Chapitre 4 : Du rapatriement et de la conduite (art. 87 à 90)](#13)
+    - [Chapitre 5 : Des créances et privilèges des marins (art. 91 à 92)](#14)
+    - [Chapitre 6 : Des congés payés (art. 92-1)](#15)
+  - [Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat (art. 93 à 102-24)](#16)
+    - [Chapitre 1 : Dispositions communes à tous les contrats d'engagement (art. 93 à 102)](#17)
+    - [Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée (art. 102-1 à 102-21)](#18)
+    - [Chapitre 3 : Dispositions spéciales au contrat d'engagement à durée déterminée ou au voyage (art. 102-22 à 102-24)](#19)
+  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 103 à 119)](#20)
+    - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 103 à 109)](#21)
+    - [Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans. (art. 110 à 117)](#22)
+    - [Chapitre 3 : Dispositions spéciales applicables aux marins étrangers (art. 119)](#23)
+  - [Titre 7 : Des litiges entre armateurs et marins (art. 121)](#24)
+  - [Titre 8 : Inspection du travail maritime. (art. 122 à 123)](#25)
+  - [Titre 9 : Dispositions diverses (art. 133 à 134)](#26)
 # Titre 1 : Dispositions générales<a id=1></a>
 
 ###### Article 1
@@ -224,29 +223,36 @@ _Nouveaux textes_:
 ###### Article 8
 
 Les dispositions du titre Ier du livre Ier du code du travail relatives à l'apprentissage sont applicables aux entreprises
-d'armement maritime.
+d'armement maritime. 
 
 La dérogation d'âge visée à l'article L. 117-3 du code du travail est également applicable aux jeunes marins embarqués
-nonobstant les dispositions du premier alinéa de l'article 115.
+nonobstant les dispositions du premier alinéa de l'article 115. 
 
-Les adaptations nécessaires aux spécificités des entreprises d'armement maritime sont précisées par le décret visé à
-l'article 117.
+Les adaptations nécessaires aux caractéristiques propres des entreprises d'armement maritime sont précisées par décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
 _Modifié par_:
 
-  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 15 () JORF 14 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5547-1 (V)
 
 _Cite_:
 
-  - Code du travail - art. L117-3 (M)
-  - Code du travail maritime - art. 115 (M)
-  - Code du travail maritime - art. 117 (M)
-
-_Codifié par_:
-
-  - Code du travail maritime (V)
+  - Code du travail - art. L117-3 (VT)
+  - Code du travail maritime - art. 115 (V)
 
 
 ###### Article 9
@@ -694,15 +700,31 @@ _Abrogé par_:
 
 ###### Article 18
 
-Sauf dans les circonstances de force majeure et celles où le salut du navire, des personnes embarquées ou de la cargaison est
-en jeu, circonstances dont le capitaine est seul juge, le marin n'est pas tenu, à moins d'une convention contraire,
-d'accomplir un travail incombant à une catégorie de personnel autre que celle dans laquelle il est engagé.
+Sauf dans les circonstances de force majeure et les cas mentionnés à l'article 22 du présent code, circonstances dont le
+capitaine est seul juge, le marin n'est pas tenu, à moins d'une convention contraire, d'accomplir un travail incombant à une
+catégorie de personnel autre que celle dans laquelle il est engagé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 8 () JORF 14 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-34 (V)
+
+_Cite_:
+
+  - Code du travail maritime - art. 22 (V)
 
 
 ###### Article 19
@@ -772,6 +794,13 @@ _Abrogé par_:
 
 ###### Article 22
 
+Le capitaine peut exiger du marin les heures de travail nécessaires à la sécurité immédiate du navire, des personnes
+présentes à bord ou de la cargaison, ou en vue de porter secours à d'autres navires ou aux personnes en détresse en mer. Dans
+ces cas, le capitaine peut suspendre l'organisation habituelle des horaires de travail ou de repos et exiger d'un marin qu'il
+travaille pendant le temps nécessaire pour faire face à ces circonstances. Lorsque celles-ci ont cessé, le capitaine attribue
+au marin qui a accompli un tel travail, alors qu'il était en période de repos, un repos d'une durée équivalente. Les
+conditions dans lesquelles ce repos est pris tiennent compte des exigences de la sécurité et des nécessités de la navigation.
+
 Le marin est tenu de travailler au sauvetage du navire, de ses débris, des effets naufragés et de la cargaison.
 
 **Liens relatifs à cet article**
@@ -779,6 +808,19 @@ Le marin est tenu de travailler au sauvetage du navire, de ses débris, des effe
 _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 8 () JORF 14 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-35 (V)
+  - Code des transports - art. L5544-13 (V)
 
 _Cité par_:
 
@@ -955,6 +997,32 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code des transports - art. L5544-3 (M)
+
+
+###### Article 24-3
+
+Les dispositions de l'article L. 222-1 du code du travail et les dispositions des articles L. 222-5 à L. 222-7 du même code
+sont applicables aux personnels navigants des entreprises d'armement maritime. 
+
+Pour être rendus obligatoires à l'ensemble des armateurs et des gens de mer par arrêté du ministre chargé du travail et du
+ministre chargé de la mer, les accords nationaux ou les conventions collectives doivent prévoir les conditions dans
+lesquelles les fêtes légales mentionnées à l'article L. 222-1 du code du travail sont prises en compte dans les temps de
+repos à terre des marins.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Créé par_:
+
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 9 () JORF 14 juillet 2004
+
+_Cite_:
+
+  - Code du travail - art. L222-1 (VT)
+  - Code du travail - art. L222-5 (VT)
 
 
 ###### Article 25
@@ -1354,12 +1422,22 @@ _Cité par_:
 
 ## Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations<a id=5></a>
 
-### Section 1 : Des divers modes de rémunération des marins et des règles de base à la liquidation des salaires<a id=6></a>
+### Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires<a id=6></a>
 
 ###### Article 31
 
 Le marin est rémunéré, soit à salaires fixes, soit à profits éventuels, soit par une combinaison de ces deux modes de
-rémunération.
+rémunération. 
+
+Les dispositions des articles L. 143-3 et L. 143-4 du code du travail (1) relatives au bulletin de paie sont applicables aux
+marins des entreprises d'armement maritime. 
+
+Les mentions obligatoires portées sur le bulletin de paie remis au marin sont précisées par décret en Conseil d'Etat.
+
+**Nota:**
+
+(1) Les articles L143-3 et L143-4 ont été abrogés par l'ordonnance n° 2007-329 du 12 mars 2007 et respectivement codifiés
+sous les articles L3243-1, L3243-2, L3243-4 et L3243-3 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -1367,8 +1445,23 @@ _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
 
+_Modifié par_:
 
-### Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires<a id=7></a>
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 10 () JORF 14 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-34 (V)
+  - Code des transports - art. L5544-55 (V)
+
+_Cite_:
+
+  - Code du travail - art. L143-3 (VT)
+
 
 ###### Article 32
 
@@ -1806,7 +1899,7 @@ _Nouveaux textes_:
   - Code des transports - art. L5544-37 (V)
 
 
-### Section 2 : De la suspension et de la rétention des salaires<a id=8></a>
+### Section 2 : De la suspension et de la rétention des salaires<a id=7></a>
 
 ###### Article 48
 
@@ -1897,7 +1990,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Section 3 : Des lieux et époques de liquidation et du paiement des salaires<a id=9></a>
+### Section 3 : Des lieux et époques de liquidation et du paiement des salaires<a id=8></a>
 
 ###### Article 51
 
@@ -2076,7 +2169,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-### Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations<a id=10></a>
+### Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations<a id=9></a>
 
 ###### Article 58
 
@@ -2266,7 +2359,7 @@ _Nouveaux textes_:
   - Code des transports - art. L5544-54 (V)
 
 
-### Section 5 : Des dettes des marins - Des saisies et cessions de salaires<a id=11></a>
+### Section 5 : Des dettes des marins - Des saisies et cessions de salaires<a id=10></a>
 
 ###### Article 66
 
@@ -2345,7 +2438,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Chapitre 2 : De la nourriture et du couchage<a id=12></a>
+## Chapitre 2 : De la nourriture et du couchage<a id=11></a>
 
 ###### Article 72
 
@@ -2559,7 +2652,7 @@ _Nouveaux textes_:
   - Code des transports - art. L5542-19 (V)
 
 
-## Chapitre 3 : Des maladies et blessures des marins<a id=13></a>
+## Chapitre 3 : Des maladies et blessures des marins<a id=12></a>
 
 ###### Article 79
 
@@ -2982,7 +3075,7 @@ _Cite_:
   - Code du travail maritime - art. 79 (V)
 
 
-## Chapitre 4 : Du rapatriement et de la conduite<a id=14></a>
+## Chapitre 4 : Du rapatriement et de la conduite<a id=13></a>
 
 ###### Article 87
 
@@ -3071,7 +3164,7 @@ _Cité par_:
   - Code du travail maritime - art. 89 (V)
 
 
-## Chapitre 5 : Des créances et privilèges des marins<a id=15></a>
+## Chapitre 5 : Des créances et privilèges des marins<a id=14></a>
 
 ###### Article 91
 
@@ -3114,15 +3207,21 @@ _Nouveaux textes_:
   - Code des transports - art. L5544-59 (V)
 
 
-## Chapitre 6 : Des congés payés<a id=16></a>
+## Chapitre 6 : Des congés payés<a id=15></a>
 
 ###### Article 92-1
 
 Les marins embarqués pour servir à bord d'un navire ont droit à un congé payé à la charge de l'armateur, calculé à raison de
-trois jours par mois de service [*durée*].
+trois jours par mois de service.
 
 Toutefois, pour ce qui est des marins rémunérés à la part, une convention ou un accord de branche étendu peut, par
 dérogation, décider d'imputer la charge qui résulte des congés payés sur les frais communs du navire à la pêche.
+
+L'indemnité de congés payés des marins rémunérés à la part est calculée sur la base d'un montant forfaitaire identique pour
+l'ensemble des membres de l'équipage. Le contrat d'engagement doit en définir les modalités de calcul et de versement.
+
+La prise de congés ne peut être remplacée par une indemnité compensatrice, sauf si la relation de travail est arrivée à son
+terme.
 
 **Liens relatifs à cet article**
 
@@ -3137,12 +3236,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-73 du 17 janvier 2002 - art. 209 () JORF 18 janvier 2002
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 11 () JORF 14 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-23 (V)
+  - Code des transports - art. L5544-24 (V)
 
 
-# Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat<a id=17></a>
+# Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat<a id=16></a>
 
-## Chapitre 1 : Dispositions communes à tous les contrats d'engagement<a id=18></a>
+## Chapitre 1 : Dispositions communes à tous les contrats d'engagement<a id=17></a>
 
 ###### Article 93
 
@@ -3430,7 +3538,7 @@ _Modifié par_:
   - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
 
 
-## Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée<a id=19></a>
+## Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée<a id=18></a>
 
 ###### Article 102-1
 
@@ -3834,7 +3942,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Chapitre 3 : Dispositions spéciales au contrat d'engagement à durée déterminée ou au voyage<a id=20></a>
+## Chapitre 3 : Dispositions spéciales au contrat d'engagement à durée déterminée ou au voyage<a id=19></a>
 
 ###### Article 102-22
 
@@ -3926,9 +4034,9 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code du travail maritime 10-7 : non application
 
 
-# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=21></a>
+# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=20></a>
 
-## Chapitre 1 : Dispositions spéciales applicables au capitaine<a id=22></a>
+## Chapitre 1 : Dispositions spéciales applicables au capitaine<a id=21></a>
 
 ###### Article 103
 
@@ -4098,7 +4206,7 @@ _Nouveaux textes_:
   - Code des transports - art. L5412-8 (V)
 
 
-## Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans.<a id=23></a>
+## Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans.<a id=22></a>
 
 ###### Article 110
 
@@ -4135,37 +4243,157 @@ _Nouveaux textes_:
   - Code des transports - art. L5542-2 (V)
 
 
-###### Article 114
+###### Article 111
 
-Les marins âgés de moins de dix-huit ans ne peuvent être employés au travail des chaudières, des citernes ou des soutes, ni
-dans les compartiments de la machine où l'élévation de la température peut constituer un danger pour leur santé.
+I.-Sous réserve des dispositions de l'article 115 du présent code et de l'article L. 117-3 du code du travail (1), les jeunes
+gens âgés de moins de seize ans ne peuvent être admis ou employés sur un navire que durant les deux dernières années de leur
+scolarité obligatoire et dans le cadre d'un enseignement alterné ou d'un enseignement professionnel afin de suivre des stages
+d'initiation, d'application ou des périodes de formation en milieu professionnel. Une convention de stage est, dans ce but,
+conclue entre l'armement et l'établissement dont relève l'élève. Cette convention devra obligatoirement couvrir les activités
+éventuellement suivies à terre, à titre accessoire, lorsqu'elles sont liées à l'exécution du stage. 
 
-Les marins de moins de dix-huit ans, ainsi que les jeunes de moins de dix-huit ans qui accomplissent des stages d'initiation
-ou d'application en milieu professionnel dans le cadre d'un enseignement alterné ou du déroulement de leur scolarité, ne
-peuvent accomplir le service de quart de nuit de 20 heures à 4 heures, ni un travail effectif excédant sept heures par jour,
-ni une durée de travail par semaine embarquée supérieure à la durée légale hebdomadaire du travail effectif fixée par
-l'article 24. Ils doivent obligatoirement jouir du repos hebdomadaire d'une durée minimale de trente-six heures consécutives,
-tant à la mer qu'au port, à date normale.
+Les jeunes gens âgés de seize à dix-huit ans, non titulaires d'un contrat d'engagement, ne peuvent être admis ou employés sur
+un navire qu'après la conclusion d'une convention de stage. 
 
-A titre exceptionnel, des dérogations aux dispositions de l'alinéa précédent peuvent être accordées, dans la limite de cinq
-heures par semaine, par l'inspecteur du travail maritime, après avis conforme du médecin des gens de mer.
+Aucune convention ne peut être conclue avec un armement aux fins d'admettre ou d'employer un élève à bord d'un navire
+lorsqu'il a été établi par les services de contrôle que les conditions de travail présentent un risque de nature à porter
+atteinte à la sécurité, à la santé ou à l'intégrité physique ou morale de l'élève. 
 
-La durée du travail des intéressés ne peut en aucun cas être supérieure à la durée quotidienne ou hebdomadaire normale du
-travail des adultes employés à bord.
+II.-La liste des travaux dangereux auxquels les jeunes gens âgés de moins de dix-huit ans ne peuvent, en aucun cas, être
+affectés, ainsi que la liste des travaux dangereux pour lesquels une dérogation peut être accordée par l'inspecteur du
+travail maritime, ainsi que les conditions de cette dérogation, sont fixées par le décret prévu à l'article 117 du présent
+code.
 
-Les marins de moins de dix-huit ans, ainsi que les jeunes de moins de dix-huit ans qui accomplissent des stages d'initiation
-ou d'application en milieu professionnel dans le cadre d'un enseignement alterné ou du déroulement de leur scolarité dans le
-service de la machine, ne peuvent être compris dans les bordées de quart.
+**Nota:**
 
-La durée minimale du repos quotidien des jeunes mentionnés aux alinéas précédents ne peut être inférieure à douze heures
-consécutives. Aucune période de travail effectif ininterrompu ne peut excéder une durée maximale de quatre heures et demie ;
-les pauses entre deux périodes de travail effectif ininterrompu de cette durée ne peuvent être inférieures à trente minutes.
+(1) L'article L117-3 a été abrogé par l'ordonnance n° 2007-329 du 12 mars 2007 et codifié sous les articles L6222-1, L6222-2
+et L6222-3 du code du travail.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°1926-12-13 JORF 15 décembre 1926
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+  - Décret n°2006-534 du 10 mai 2006 - art. 2 (VT)
+  - Code de l'éducation - art. D337-167 (Ab)
+  - Code de l'éducation - art. D337-179 (V)
+  - Code du travail maritime - art. 114 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 12 () JORF 14 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cite_:
+
+  - Code du travail - art. L117-3 (VT)
+  - Code du travail maritime - art. 115 (V)
+  - Code du travail maritime - art. 117 (V)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5545-6 (V)
+  - Code des transports - art. L5545-8 (V)
+
+
+###### Article 113
+
+Le travail de nuit est interdit aux marins âgés de moins de dix-huit ans ainsi qu'aux jeunes gens âgés de moins de dix-huit
+ans qui accomplissent des stages d'initiation ou d'application en milieu professionnel dans le cadre d'un enseignement
+alterné ou d'un enseignement professionnel. Les services de quart de nuit de 20 heures à 5 heures sont considérés comme
+travail de nuit.
+
+Un repos de neuf heures consécutives doit être accordé aux intéressés. Ce repos comprend obligatoirement la période qui se
+situe entre minuit et cinq heures du matin.
+
+Des dérogations aux dispositions des alinéas précédents peuvent être accordées par l'inspecteur du travail maritime, après
+avis du médecin des gens de mer, lorsque la formation le justifie.
+
+Pour les jeunes gens en formation âgés de moins de quinze ans le travail de nuit est interdit entre 20 heures et 6 heures.
+
+Les marins âgés de moins de dix-huit ans, ainsi que les jeunes gens âgés de moins de dix-huit ans qui accomplissent des
+stages d'initiation ou d'application en milieu professionnel dans le cadre d'un enseignement alterné ou d'un enseignement
+professionnel dans le service de la machine, ne peuvent être compris dans les services de quart.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne au deuxième
+alinéa de l'article 113 les mots " après avis du médecin des gens de mer ". (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+  - Décret n°2006-534 du 10 mai 2006 - art. 14 (VT)
+  - Code du travail maritime - art. 114 (V)
+  - Code du travail maritime - art. 117 (M)
+
+_Créé par_:
+
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 13 () JORF 14 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-27 (V)
+  - Code des transports - art. L5544-28 (V)
+  - Code des transports - art. L5544-29 (V)
+
+
+###### Article 114
+
+Les marins âgés de moins de dix-huit ans, ainsi que les jeunes gens âgés de moins de dix-huit ans qui accomplissent des
+stages d'initiation ou d'application en milieu professionnel dans le cadre d'un enseignement alterné ou d'un enseignement
+professionnel, ne peuvent accomplir un travail effectif d'une durée excédant sept heures par jour, ni une durée de travail
+par semaine embarquée supérieure à la durée légale hebdomadaire du travail effectif fixée par l'article 24. 
+
+A titre exceptionnel, des dérogations à la durée maximale hebdomadaire de travail mentionnée à l'alinéa précédent peuvent
+être accordées, dans la limite de cinq heures par semaine, par l'inspecteur du travail maritime, après avis conforme du
+médecin des gens de mer. 
+
+La durée du travail des intéressés ne peut en aucun cas être supérieure à la durée quotidienne ou hebdomadaire normale du
+travail des adultes employés à bord. 
+
+Ils doivent obligatoirement jouir du repos hebdomadaire, tant à la mer qu'au port, d'une durée minimale de deux jours
+consécutifs, comprenant si possible le dimanche. Lorsque des raisons techniques ou d'organisation le justifient, cette
+période de repos peut être réduite, sans pouvoir être inférieure à trente-six heures consécutives. Dans ce cas, le capitaine
+ou l'armateur en informe l'inspecteur du travail maritime au plus tard dès le retour du navire et doit pouvoir justifier des
+mesures compensatoires prises ou envisagées. 
+
+La durée minimale du repos quotidien des jeunes gens mentionnés aux alinéas précédents ne peut être inférieure à douze heures
+consécutives. Dans le cas où le travail de nuit de ces jeunes gens serait autorisé par l'inspecteur du travail, en
+application des dispositions du troisième alinéa de l'article 113, cette durée ne peut être inférieure à quatorze heures
+consécutives. Elle ne peut être inférieure à quatorze heures consécutives pour les jeunes gens âgés de moins de quinze ans
+dans les cas mentionnés au premier alinéa de l'article 111. 
+
+Aucune période de travail effectif ininterrompue ne peut excéder une durée maximale de quatre heures et demie. 
+
+Lorsque le temps de travail quotidien est supérieur à quatre heures et demie, les jeunes travailleurs de moins de dix-huit
+ans ainsi que les jeunes gens de moins de dix-huit ans qui accomplissent des stages d'initiation ou d'application en milieu
+professionnel dans le cadre d'un enseignement alterné ou d'un enseignement professionnel doivent bénéficier d'un temps de
+pause d'au moins trente minutes consécutives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
 
 _Cité par_:
 
@@ -4177,10 +4405,23 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2002-73 du 17 janvier 2002 - art. 203 () JORF 18 janvier 2002
+  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 14 () JORF 14 juillet 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-26 (V)
+  - Code des transports - art. L5544-29 (V)
+  - Code des transports - art. L5544-30 (V)
+  - Code des transports - art. L5544-31 (M)
 
 _Cite_:
 
+  - Code du travail maritime - art. 111 (V)
+  - Code du travail maritime - art. 113 (V)
   - Code du travail maritime - art. 24 (V)
 
 
@@ -4290,7 +4531,7 @@ _Nouveaux textes_:
   - Code des transports - art. L5545-8 (V)
 
 
-## Chapitre 3 : Dispositions spéciales applicables aux marins étrangers<a id=24></a>
+## Chapitre 3 : Dispositions spéciales applicables aux marins étrangers<a id=23></a>
 
 ###### Article 119
 
@@ -4325,7 +4566,7 @@ _Modifié par_:
   - Loi n°1948-09-25 art. 2 JORF 30 SEPTEMBRE 1948
 
 
-# Titre 7 : Des litiges entre armateurs et marins<a id=25></a>
+# Titre 7 : Des litiges entre armateurs et marins<a id=24></a>
 
 ###### Article 121
 
@@ -4355,7 +4596,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Titre 8 : Inspection du travail maritime.<a id=26></a>
+# Titre 8 : Inspection du travail maritime.<a id=25></a>
 
 ###### Article 122
 
@@ -4409,7 +4650,7 @@ _Abrogé par_:
   - Loi n°2006-10 du 5 janvier 2006 - art. 46 () JORF 6 janvier 2006
 
 
-# Titre 9 : Dispositions diverses<a id=27></a>
+# Titre 9 : Dispositions diverses<a id=26></a>
 
 ###### Article 133
 
