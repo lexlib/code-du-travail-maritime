@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1926-12-15
+Version Consolidée au 1934-07-13
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -14,10 +14,10 @@ Version Consolidée au 1926-12-15
       - [Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations (art. 59 à 65)](#11)
       - [Section 5 : Des dettes des marins - Des saisies et cessions de salaires (art. 67 à 70)](#12)
     - [Chapitre 2 : De la nourriture et du couchage (art. 73 à 77)](#13)
-    - [Chapitre 3 : Des maladies et blessures des marins (art. 86)](#14)
+    - [Chapitre 3 : Des maladies et blessures des marins (art. 79 à 86)](#14)
     - [Chapitre 4 : Du rapatriement et de la conduite (art. 87 à 90)](#15)
     - [Chapitre 5 : Des créances et privilèges des marins (art. 91 à 92)](#16)
-  - [Titre 4 : Obligations de l'armateur envers le marin (art. 34 à 76)](#17)
+  - [Titre 4 : Obligations de l'armateur envers le marin (art. 34 à 85)](#17)
     - [Chapitre 1 : Salaires fixes, profits éventuels et autres rémunérations (art. 34 à 69)](#18)
       - [Section 1 : Divers modes de rémunération des marins et règles de base à la liquidation des salaires (art. 34)](#19)
       - [Section 2 : Suspension et rétention des salaires (art. 48 à 50)](#20)
@@ -26,12 +26,13 @@ Version Consolidée au 1926-12-15
       - [Section 5 : Dettes des marins (art. 67 à 69)](#23)
         - [Saisies et cessions de salaires (art. 67 à 69)](#24)
     - [Chapitre 2 : Nourriture et couchage (art. 72 à 76)](#25)
-  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 104 à 108)](#26)
-    - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 104 à 108)](#27)
-  - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 103 à 118)](#28)
-    - [Chapitre 1 : Capitaine (art. 103 à 109)](#29)
-    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 118)](#30)
-  - [Titre 7 : Litiges entre armateurs et marins (art. 120 à 131)](#31)
+    - [Chapitre 3 : Maladies et blessures des marins (art. 81 à 85)](#26)
+  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 104 à 108)](#27)
+    - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 104 à 108)](#28)
+  - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 103 à 118)](#29)
+    - [Chapitre 1 : Capitaine (art. 103 à 109)](#30)
+    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 118)](#31)
+  - [Titre 7 : Litiges entre armateurs et marins (art. 120 à 131)](#32)
 # Titre 1 : Dispositions générales<a id=1></a>
 
 ###### Article 1
@@ -1346,6 +1347,136 @@ _Cité par_:
 
 ## Chapitre 3 : Des maladies et blessures des marins<a id=14></a>
 
+###### Article 79
+
+Le marin est payé de ses salaires et soigné aux frais du navire, s'il est blessé au service du navire ou s'il tombe malade,
+pendant le cours de son embarquement, après que le navire a quitté le port où le marin a été embarqué. 
+
+Les dispositions du paragraphe précédent sont applicables au marin qui tombe malade entre la date de son embarquement et la
+date du départ du navire, ou postérieurement à la date de son débarquement et avant tout autre embarquement, lorsqu'il est
+établi que la maladie a été contractée au service du navire. 
+
+Le marin blessé est tenu, sauf cas de force majeure, d'en faire la déclaration au capitaine aussitôt qu'il aura quitté le
+service au cours duquel il aura été blessé. 
+
+En cas de décès, les frais funéraires sont à la charge du navire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+  - Décret n°2018-1258 du 27 décembre 2018 - art. 5
+  - Code des pensions de retraite des marins français  - art. R8 (M)
+  - Code du travail maritime - art. 66 (V)
+  - Code du travail maritime - art. 86 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-21 (V)
+
+
+###### Article 83
+
+Les salaires du marin lui sont payés pendant tout le temps où il a droit aux soins. 
+
+Si le marin a été débarqué hors de France et rapatrié guéri ou en état de consolidation, ou dans un état de maladie ayant
+pris un caractère chronique, il a droit à ses salaires jusqu'au jour de son retour en France. 
+
+En aucun cas, la période durant laquelle les salaires du marin lui sont alloués ne peut dépasser quatre mois, à dater du jour
+où il a été laissé à terre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+  - Code du travail maritime - art. 84 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-26 (V)
+
+
+###### Article 84
+
+Lorsque la rémunération du marin ne consiste pas en un salaire fixe, le salaire à allouer au marin en vertu de l'article 83
+ci-dessus est fixé suivant les accords intervenus entre les organisations professionnelles d'armateurs et de marins
+intéressés. A défaut de tels accords, il est déterminé d'après le taux des salaires des marins du commerce établi par
+conventions collectives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-27 (V)
+
+_Cite_:
+
+  - Code du travail maritime - art. 83 (V)
+
+
 ###### Article 86
 
 Les dispositions des articles 79 à 85 ci-dessus ne sont pas applicables si la maladie ou la blessure a été déterminée par un
@@ -1764,9 +1895,128 @@ _Codifié par_:
   - Loi du 13 décembre 1926, v. init.
 
 
-# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=26></a>
+## Chapitre 3 : Maladies et blessures des marins<a id=26></a>
 
-## Chapitre 1 : Dispositions spéciales applicables au capitaine<a id=27></a>
+###### Article 81
+
+Lorsque le navire se trouve dans son port d'armement, ou qu'en cours de voyage il touche à tout autre port, le marin qui a dû
+cesser son travail pour blessure ou maladie est laissé à terre et hospitalisé. S'il est débarqué dans un port de France, il
+peut toutefois, réclamer le bénéfice des dispositions de l'article 82 ci-après.
+
+La mise à terre et l'hospitalisation sont prononcées après avis du médecin du bord ou de tout autre médecin désigné par
+l'autorité maritime déclarant que l'état du malade exige son débarquement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+  - Code des pensions de retraite des marins français  - art. R8 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+_Cite_:
+
+  - Code du travail maritime - art. 82 (M)
+
+
+###### Article 82
+
+En cas de débarquement en France et après établissement du diagnostic, le marin peut se faire soigner chez lui par un médecin
+de son choix, si son domicile se trouve au port français d'embarquement ou de débarquement, ou dans les environs immédiats de
+ces ports, là où le contrôle de l'armateur sur son traitement peut être exercé. Le déplacement du marin blessé ou malade
+devra être autorisé préalablement par l'autorité maritime, sur l'avis du médecin désigné par elle. 
+
+L'armateur peut, au cours du traitement, désigner un médecin chargé de le renseigner sur l'état du marin. 
+
+Pendant tout le temps où il est soigné par le médecin de son choix dans les conditions déterminées par les paragraphes
+précédents, le marin malade ou blessé reçoit une indemnité journalière de nourriture dont le montant est fixé par le contrat
+d'engagement ou, à défaut, par les usages du port de débarquement. Il est remboursé en outre, sur justifications de ses frais
+médicaux et pharmaceutiques jusqu'à concurrence de la somme fixée par le juge du tribunal d'instance du canton où le marin
+est en traitement, conformément aux dispositions prises pour l'application de la législation concernant les accidents du
+travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+  - Code des pensions de retraite des marins français  - art. R8 (M)
+  - Code du travail maritime - art. 81 (V)
+  - Code du travail maritime - art. 82 bis (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+
+###### Article 85
+
+L'armateur peut se libérer de tous soins et, si le marin a été débarqué hors de France [*à l'étranger*], des frais de
+rapatriement prévus aux articles 86 et 88 ci-après, en versant une somme forfaitaire entre les mains de l'autorité maritime
+au moment où le marin a été laissé à terre. 
+
+Les conditions dans lesquelles ce versement pourra être effectué, ainsi que les tarifs servant à en déterminer le montant
+seront arrêtés par un décret en Conseil d'Etat qui précisera, en outre, les attributions et les pouvoirs de contrôle de
+l'autorité maritime substituée à l'armateur par ce versement. 
+
+Avis du délaissement forfaitaire effectué par l'armateur est donné au marin par l'autorité maritime.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+  - Code des pensions de retraite des marins français  - art. R8 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+_Cite_:
+
+  - Code du travail maritime - art. 86 (V)
+  - Code du travail maritime - art. 88 (M)
+
+
+# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=27></a>
+
+## Chapitre 1 : Dispositions spéciales applicables au capitaine<a id=28></a>
 
 ###### Article 104
 
@@ -1885,9 +2135,9 @@ _Nouveaux textes_:
   - Code des transports - art. L5542-47 (V)
 
 
-# Titre 6 : Dispositions spéciales à certaines catégories de marins<a id=28></a>
+# Titre 6 : Dispositions spéciales à certaines catégories de marins<a id=29></a>
 
-## Chapitre 1 : Capitaine<a id=29></a>
+## Chapitre 1 : Capitaine<a id=30></a>
 
 ###### Article 103
 
@@ -1918,7 +2168,7 @@ _Cite_:
   - Code du travail maritime - art. 95 (M)
 
 
-## Chapitre 2 : Marins de moins de 21 ans et femmes mariées<a id=30></a>
+## Chapitre 2 : Marins de moins de 21 ans et femmes mariées<a id=31></a>
 
 ###### Article 118
 
@@ -1935,7 +2185,7 @@ _Abrogé par_:
   - Loi n°60-1156 1960-11-02 art. 2 JORF 5 novembre 1960
 
 
-# Titre 7 : Litiges entre armateurs et marins<a id=31></a>
+# Titre 7 : Litiges entre armateurs et marins<a id=32></a>
 
 ###### Article 120
 
