@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1959-11-25
+Version Consolidée au 1960-08-17
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -33,8 +33,7 @@ Version Consolidée au 1959-11-25
   - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 103 à 118)](#30)
     - [Chapitre 1 : Capitaine (art. 103 à 109)](#31)
     - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 111 à 118)](#32)
-  - [Titre 7 : Litiges entre armateurs et marins (art. 123)](#33)
-  - [Titre 7 : Des litiges entre armateurs et marins (art. 121)](#34)
+  - [Titre 7 : Des litiges entre armateurs et marins (art. 121)](#33)
 # Titre 1 : Dispositions générales<a id=1></a>
 
 ###### Article 1
@@ -1815,6 +1814,31 @@ _Codifié par_:
   - Loi du 13 décembre 1926, v. init.
 
 
+###### Article 54
+
+Lors du débarquement du marin mettant fin à son contrat d'engagement, l'autorité maritime reçoit les déclarations des parties
+sur le règlement des salaires. Il est fait mention au rôle d'équipage et sur le livret professionnel du marin de la
+déclaration faite, sans indication de somme. 
+
+En aucun lieu, il ne peut être utilisé de moyens de paiement ayant pour objet de suppléer ou de remplacer les signes
+monétaires ayant cours légal. Si le paiement est fait à l'étranger en monnaie étrangère, il est effectué, sous le contrôle de
+l'autorité consulaire, au taux de change fixé pour les opérations de chancellerie.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Dispositions réglementaires (Constitution art. 37)
+
+_Modifié par_:
+
+  - Loi n°60-865 1960-08-06 art. 9 JORF 17 août 1960
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+
 ###### Article 57
 
 Toute transaction sur le montant du décompte des salaires est nulle si elle n'est pas homologuée par l'autorité maritime.
@@ -2356,6 +2380,44 @@ _Codifié par_:
   - Loi n°1926-12-13 JORF 15 décembre 1926
 
 
+###### Article 115
+
+Les enfants âgés de moins de quinze ans révolus ne peuvent être embarqués à titre professionnel sur un navire. Toutefois,
+l'embarquement professionnel d'un enfant âgé de quatorze ans au moins peut être exceptionnellement autorisé par
+l'administrateur des affaires maritimes lorsqu'il est effectué dans l'intérêt de l'enfant. Il est subordonné à la
+présentation d'un certificat d'aptitude physique délivré par le médecin des gens de mer ou le médecin visé à l'article 3. 
+
+En outre, les enfants de moins de quinze ans, mais de plus de treize ans, peuvent, pendant les vacances scolaires, prendre
+part occasionnellement aux activités à bord des bateaux de pêche côtière, sous réserve de la présentation du certificat
+médical prévu à l'alinéa précédent et à condition que cet embarquement ne soit pas réalisé dans un intérêt commercial.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code du travail maritime - art. 111 (V)
+  - Code du travail maritime - art. 8 (V)
+  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+  - Décret n°2006-534 du 10 mai 2006 - art. 3 (VT)
+  - Décret n°2006-534 du 10 mai 2006 - art. 4 (VT)
+
+_Cite_:
+
+  - Code du travail maritime - art. 3 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Dispositions réglementaires
+
+_Modifié par_:
+
+  - Décret n°60-865 1960-08-06 art. 8 JORF 17 août 1960
+
+_Codifié par_:
+
+  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
 ###### Article 116
 
 Le capitaine ou le patron doit exercer sur le marin mineur une surveillance attentive, veiller à ce qu'il ne soit employé
@@ -2420,28 +2482,7 @@ _Abrogé par_:
   - Loi n°60-1156 1960-11-02 art. 2 JORF 5 novembre 1960
 
 
-# Titre 7 : Litiges entre armateurs et marins<a id=33></a>
-
-###### Article 123
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-_Abrogé par_:
-
-  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-_Codifié par_:
-
-  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-# Titre 7 : Des litiges entre armateurs et marins<a id=34></a>
+# Titre 7 : Des litiges entre armateurs et marins<a id=33></a>
 
 ###### Article 121
 
