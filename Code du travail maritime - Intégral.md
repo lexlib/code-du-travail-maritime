@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1935-11-05
+Version Consolidée au 1942-04-15
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -31,7 +31,7 @@ Version Consolidée au 1935-11-05
     - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 104 à 108)](#28)
   - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 103 à 118)](#29)
     - [Chapitre 1 : Capitaine (art. 103 à 109)](#30)
-    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 118)](#31)
+    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 113 à 118)](#31)
   - [Titre 7 : Litiges entre armateurs et marins (art. 120 à 131)](#32)
 # Titre 1 : Dispositions générales<a id=1></a>
 
@@ -2196,6 +2196,28 @@ _Cite_:
 
 
 ## Chapitre 2 : Marins de moins de 21 ans et femmes mariées<a id=31></a>
+
+###### Article 113
+
+Dispositions abrogées.
+
+**Liens relatifs à cet article**
+
+_Abrogé par_:
+
+  - Décret n°59-626 1959-05-12 art. 33 JORF 16 mai 1959
+
+_Cité par_:
+
+  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+  - Décret n°2006-534 du 10 mai 2006 - art. 14 (VT)
+  - Code du travail maritime - art. 114 (V)
+  - Code du travail maritime - art. 117 (M)
+
+_Codifié par_:
+
+  - Loi n°1926-12-13 JORF 15 décembre 1926
+
 
 ###### Article 118
 
