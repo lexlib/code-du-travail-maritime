@@ -1,12 +1,12 @@
 # Code du travail maritime  
-Version Consolidée au 2000-06-22
+Version Consolidée au 2002-01-18
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 15-2)](#2)
   - [Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires (art. 16 à 30)](#3)
   - [Titre 4 : Des obligations de l'armateur envers le marin (art. 31 à 92-1)](#4)
     - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 31 à 71)](#5)
-      - [Section 1 : Des divers modes de rémunération des marins et des règles de base à la liquidation des salaires (art. 31 à 34)](#6)
+      - [Section 1 : Des divers modes de rémunération des marins et des règles de base à la liquidation des salaires (art. 31)](#6)
       - [Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires (art. 32 à 47)](#7)
       - [Section 2 : De la suspension et de la rétention des salaires (art. 48 à 50)](#8)
       - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 51 à 57)](#9)
@@ -875,9 +875,14 @@ _Cite_:
 
 ###### Article 24-1
 
-Les dispositions des articles L. 212-4-2 à L. 212-4-7 du code du travail sont applicables aux personnels navigants des
+Les dispositions des articles L. 212-4-2 à L. 212-4-16 du code du travail sont applicables aux personnels navigants des
 entreprises d'armement maritime dans des conditions déterminées, compte tenu des adaptations nécessaires, par décret en
 Conseil d'Etat.
+
+**Nota:**
+
+Les articles L212-4-2 à L212-4-16 ont été abrogés par l'ordonnance n° 2007-329 du 12 mars 2007 et codifiés sous les articles
+L3123-2 à L3123-37, et L3122-28 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -892,19 +897,38 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+  - Loi n°2002-73 du 17 janvier 2002 - art. 203 () JORF 18 janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
-  - Code du travail L212-4-2 à L212-4-7
+  - Code du travail - art. L212-4-2 (VT)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-10 (M)
+  - Code des transports - art. L5544-9 (V)
 
 
 ###### Article 24-2
 
-Les dispositions de l'article L. 212-2-1, des deuxième, troisième et quatrième alinéas de l'article L. 212-5, ainsi que des
-articles L. 212-8 à L. 212-9 du code du travail, relatifs à la modulation du temps de travail et au remplacement du paiement
-des heures supplémentaires par un repos compensateur, sont applicables aux marins salariés des entreprises d'armement
-maritime.
+Les dispositions des articles L. 212-1, L. 212-3, des quatre premiers alinéas de l'article L. 212-7-1, de l'article L. 212-8,
+du I et des premier et troisième alinéas du II de l'article L. 212-9 ainsi que les dispositions de l'article L. 212-10 du
+code du travail sont applicables aux marins salariés des entreprises d'armement maritime. 
+
+La période d'astreinte mentionnée à l'article L. 212-4 bis du même code est applicable aux marins salariés des entreprises
+d'armement maritime dans des conditions fixées par décret. 
+
+Le deuxième alinéa du II de l'article L. 212-9 du même code est applicable aux marins salariés des entreprises d'armement
+maritime dans des conditions fixées par décret.
+
+**Nota:**
+
+Les articles du code du travail mentionnés dans le présent article ont été abrogés par l'ordonnance n° 2007-329 du 12 mars
+2007 et codifiés dans la nouvelle partie législative du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -912,14 +936,25 @@ _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+  - Loi n°2002-73 du 17 janvier 2002 - art. 203 () JORF 18 janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
-  - Code du travail L212-8 à L212-9
-  - Code du travail maritime L212-2-1, L212-5
+  - Code du travail - art. L212-1 (VT)
+  - Code du travail - art. L212-4 bis (VT)
+  - Code du travail - art. L212-7-1 (VT)
+  - Code du travail - art. L212-8 (VT)
+  - Code du travail - art. L212-9 (VT)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-3 (M)
 
 
 ###### Article 25
@@ -1008,21 +1043,20 @@ _Cite_:
   - Code du travail maritime - art. 24 (V)
 
 
-###### Article 26
+###### Article 25-1
 
-La rémunération du travail est fixée par le contrat d'engagement, dans le cadre des conventions ou accords collectifs
-applicables. 
+Pour la pêche maritime, et indépendamment des dispositions de l'article 92-1 relatives aux congés payés, la durée du travail
+peut être fixée en nombre de jours de mer par accord national professionnel ou accord de branche étendus. Cette durée du
+travail est calculée sur une base annuelle, dans la limite de 225 jours par an, y compris les heures de travail effectuées à
+terre. 
 
-La rémunération de l'heure de travail est majorée :
+L'accord doit prévoir les modalités de prise en compte des heures de travail effectuées à terre. 
 
-1° De 25 p. 100 pour les huit premières heures [*supplémentaires*] effectuées dans la semaine au-delà de la durée du travail
-fixée à l'article L. 212-1 du Code du travail ; 
+Cette durée peut être calculée sur la moyenne de deux années consécutives pour certaines activités de pêche définies par
+décret. 
 
-2° De 50 p. 100 pour les heures supplémentaires effectuées au-delà des huit premières ; toutefois cette dernière majoration
-ne peut être cumulée avec les allocations spéciales prévues par les conventions ou accords collectifs, sentences arbitrales
-ou décisions administratives, sauf si ces dernières en disposent autrement. 
-
-Un mode forfaitaire de rémunération du travail supplémentaire peut être prévu par convention ou accord collectif.
+Il pourra être dérogé à cette limite de 225 jours dans le respect d'un plafond de 250 jours, dans des conditions fixées par
+décret compte tenu des modes d'exploitation des navires de pêche concernés.
 
 **Liens relatifs à cet article**
 
@@ -1030,22 +1064,63 @@ _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
 
-_Modifié par_:
+_Cité par_:
 
-  - Décret n°54-1037 1954-10-22 art. 3 JORF 23 octobre 1954
-  - Ordonnance 58-1358 1958-12-27 art. 4 JORF 30 décembre 1958
+  - Décret n°78-389 du 17 mars 1978 - art. 24 (V)
+  - Décret n°2003-928 du 23 septembre 2003 - art. 1 (V)
+  - Décret n°2003-928 du 23 septembre 2003 - art. 2 (V)
+  - Décret n°2003-928 du 23 septembre 2003 - art. 4 (V)
+  - Code du travail maritime - art. 133-1 (V)
+
+_Créé par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 204 () JORF 18 janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-6 (V)
+  - Code des transports - art. L5544-7 (V)
 
 _Cite_:
 
-  - Code du travail - art. L212-1 (M)
+  - Code du travail maritime - art. 92-1 (V)
+
+
+###### Article 26
+
+La rémunération du travail est fixée par le contrat d'engagement, dans le cadre des conventions ou accords collectifs
+applicables. 
+
+Les dispositions des I, II et des trois premiers alinéas du III de l'article L. 212-5 du code du travail sont applicables aux
+marins salariés des entreprises d'armement maritime.
+
+Les dispositions du V de l'article 5 de la loi n° 2000-37 du 19 janvier 2000 relative à la réduction négociée du temps de
+travail sont applicables aux entreprises d'armement maritime.
+
+Un mode forfaitaire de rémunération du travail supplémentaire peut être prévu par convention ou accord collectif.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2000-37 du 19 janvier 2000 - art. 5 (M)
+  - Code du travail - art. L212-5 (M)
+
+_Modifié par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 203 () JORF 18 janvier 2002
 
 _Cité par_:
 
   - Code du travail maritime - art. 104 (M)
 
-**Liens**:
+_Codifié par_:
 
-  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
+  - Loi n°1926-12-13 JORF 15 décembre 1926
 
 
 ###### Article 26-1
@@ -1278,33 +1353,6 @@ _Codifié par_:
   - Loi du 13 décembre 1926, v. init.
 
 
-###### Article 34
-
-Un accord national professionnel ou des accords de branche étendus fixent, indépendamment de la durée de travail effective,
-la durée du travail hebdomadaire retenue pour le calcul du salaire minimum de croissance ainsi que les modalités de lissage
-sur tout ou partie de l'année de la rémunération à la part.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code du travail maritime - art. 133-1 (V)
-  - Code du travail maritime - art. 53 (M)
-  - Code du travail maritime - art. 58 (M)
-
-**Liens**:
-
-  - TXT_ASSOCIE: Décret n°1935-06-15
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
-
-
 ### Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires<a id=7></a>
 
 ###### Article 32
@@ -1372,6 +1420,45 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code du travail maritime - art. 72 (V)
+
+
+###### Article 34
+
+Un accord national professionnel ou des accords de branche étendus fixent, indépendamment de la durée de travail effectif, la
+ou les périodes de travail retenues pour le calcul du salaire minimum de croissance des marins rémunérés à la part. Ces
+périodes ne peuvent être supérieures à douze mois consécutifs calculées sur une année civile.
+
+Un accord national professionnel ou des accords de branche étendus fixent les modalités de lissage, sur tout ou partie de
+l'année, de la rémunération à la part.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 205 () JORF 18 janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-39 (V)
+  - Code des transports - art. L5544-41 (V)
+
+_Cité par_:
+
+  - Code du travail maritime - art. 133-1 (V)
+  - Code du travail maritime - art. 53 (M)
+  - Code du travail maritime - art. 58 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°1935-06-15
 
 
 ###### Article 35
@@ -1858,9 +1945,9 @@ _Abrogé par_:
 
 Les parts de profit sont payées conformément aux conventions et usages. 
 
-Les règlements prévus à l'article 34 détermineront, pour les contrats d'engagement de grande pêche, les délais de liquidation
-des comptes et les délais de payement de l'équipage, ainsi que les indemnités dues aux marins quand le payement des salaires
-n'est pas effectué dans les délais légaux.
+Des décrets détermineront, pour les contrats d'engagement de grande pêche, les délais de liquidation des comptes et les
+délais de payement de l'équipage, ainsi que les indemnités dues aux marins quand le payement des salaires n'est pas effectué
+dans les délais légaux.
 
 **Liens relatifs à cet article**
 
@@ -1868,9 +1955,17 @@ _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
 
-_Cite_:
+_Modifié par_:
 
-  - Code du travail maritime - art. 34 (M)
+  - Loi n°2002-73 du 17 janvier 2002 - art. 206 () JORF 18 janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-56 (V)
 
 
 ###### Article 54
@@ -1978,9 +2073,9 @@ concurrence de :
 
 trois mois de salaires pour les voiliers effectuant une navigation au long cours dépassant le cap Horn ou le cap de Bonne-
 Espérance ; deux mois pour les voiliers de long cours ne dépassant pas les caps, et un mois pour toutes les autres
-navigations. Les règlements prévus à l'article 34 détermineront, pour la navigation de grande pêche, le montant des avances
-qui peuvent être accordées aux marins. La partie de l'avance dépassant les sommes ainsi fixées reste acquise au marin à titre
-de prime d'engagement ou avance perdue. 
+navigations. Des décrets détermineront, pour la navigation de grande pêche, le montant des avances qui peuvent être accordées
+aux marins. La partie de l'avance dépassant les sommes ainsi fixées reste acquise au marin à titre de prime d'engagement ou
+avance perdue. 
 
 Toutefois, des avances peuvent être accordées, au-delà des maxima prévus au paragraphe précédent, sous forme de délégation.
 
@@ -1992,11 +2087,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+  - Loi n°2002-73 du 17 janvier 2002 - art. 207 () JORF 18 janvier 2002
 
-_Cite_:
+_Abrogé par_:
 
-  - Code du travail maritime - art. 34 (M)
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-50 (V)
 
 
 ###### Article 59
@@ -3007,20 +3106,23 @@ _Nouveaux textes_:
 Les marins embarqués pour servir à bord d'un navire ont droit à un congé payé à la charge de l'armateur, calculé à raison de
 trois jours par mois de service [*durée*].
 
+Toutefois, pour ce qui est des marins rémunérés à la part, une convention ou un accord de branche étendu peut, par
+dérogation, décider d'imputer la charge qui résulte des congés payés sur les frais communs du navire à la pêche.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
 
-_Créé par_:
-
-  - Décret n°54-1037 1954-10-22 art. 4 JORF 28 octobre 1954
-
 _Cité par_:
 
   - Décret n°86-605 du 14 mars 1986 - art. 6 (V)
   - Code du travail maritime - art. 25-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 209 () JORF 18 janvier 2002
 
 
 # Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat<a id=17></a>
@@ -4023,21 +4125,32 @@ _Nouveaux textes_:
 Les marins âgés de moins de dix-huit ans ne peuvent être employés au travail des chaudières, des citernes ou des soutes, ni
 dans les compartiments de la machine où l'élévation de la température peut constituer un danger pour leur santé.
 
-Les marins de moins de dix-huit ans ne peuvent accomplir le service de quart de nuit de vingt heures à quatre heures, ni plus
-de huit heures de travail au cours d'une même journée, ni une durée de travail par semaine embarquée supérieure à la durée
-légale hebdomadaire du travail effectif. Ils doivent bénéficier, pour chaque période de vingt-quatre heures à bord, d'un
-repos minimum ininterrompu de douze heures. Ils doivent obligatoirement jouir du repos hebdomadaire d'une durée minimale de
-trente-six heures consécutives, tant à la mer qu'au port, à la date normale.
+Les marins de moins de dix-huit ans, ainsi que les jeunes de moins de dix-huit ans qui accomplissent des stages d'initiation
+ou d'application en milieu professionnel dans le cadre d'un enseignement alterné ou du déroulement de leur scolarité, ne
+peuvent accomplir le service de quart de nuit de 20 heures à 4 heures, ni un travail effectif excédant sept heures par jour,
+ni une durée de travail par semaine embarquée supérieure à la durée légale hebdomadaire du travail effectif fixée par
+l'article 24. Ils doivent obligatoirement jouir du repos hebdomadaire d'une durée minimale de trente-six heures consécutives,
+tant à la mer qu'au port, à date normale.
 
-Dans le service de la machine, les marins âgés de moins de dix-huit ans ne peuvent être compris dans les bordées de quart ;
-il est interdit de leur faire faire plus de quatre heures et demie de travail consécutif sans accorder un temps de pause
-minimum de trente minutes consécutives.
+A titre exceptionnel, des dérogations aux dispositions de l'alinéa précédent peuvent être accordées, dans la limite de cinq
+heures par semaine, par l'inspecteur du travail maritime, après avis conforme du médecin des gens de mer.
 
-Il peut, pour les marins âgés d'au moins seize ans, être dérogé aux dispositions du deuxième alinéa par voie d'accord
-collectif de branche étendu lorsque des conditions objectives le justifient et sous réserve que soit prévu un repos
-compensateur approprié.
+La durée du travail des intéressés ne peut en aucun cas être supérieure à la durée quotidienne ou hebdomadaire normale du
+travail des adultes employés à bord.
+
+Les marins de moins de dix-huit ans, ainsi que les jeunes de moins de dix-huit ans qui accomplissent des stages d'initiation
+ou d'application en milieu professionnel dans le cadre d'un enseignement alterné ou du déroulement de leur scolarité dans le
+service de la machine, ne peuvent être compris dans les bordées de quart.
+
+La durée minimale du repos quotidien des jeunes mentionnés aux alinéas précédents ne peut être inférieure à douze heures
+consécutives. Aucune période de travail effectif ininterrompu ne peut excéder une durée maximale de quatre heures et demie ;
+les pauses entre deux périodes de travail effectif ininterrompu de cette durée ne peuvent être inférieures à trente minutes.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1926-12-13 JORF 15 décembre 1926
 
 _Cité par_:
 
@@ -4049,11 +4162,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+  - Loi n°2002-73 du 17 janvier 2002 - art. 203 () JORF 18 janvier 2002
 
-_Codifié par_:
+_Cite_:
 
-  - Loi n°1926-12-13 JORF 15 décembre 1926
+  - Code du travail maritime - art. 24 (V)
 
 
 ###### Article 115
@@ -4065,10 +4178,17 @@ activités à bord des navires de pêche, sous réserve d'une autorisation déli
 travail maritime et de la présentation d'un certificat d'aptitude physique délivré par un médecin des gens de mer ou par un
 médecin désigné par l'autorité chargée de l'inspection du travail maritime.
 
+La durée minimale du repos quotidien des jeunes mentionnés au deuxième alinéa ne peut être inférieure à quatorze heures
+consécutives s'ils ont moins de seize ans.
+
 Ces activités occasionnelles ne peuvent porter que sur des travaux légers tout en assurant au jeune qui y prend part un repos
 effectif d'une durée au moins égale à la moitié de chaque période de vacances scolaires.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
 
 _Cité par_:
 
@@ -4080,19 +4200,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+  - Loi n°2002-73 du 17 janvier 2002 - art. 203 () JORF 18 janvier 2002
 
-_Cite_:
+_Abrogé par_:
 
-  - Code du travail maritime - art. 3 (M)
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
-**Liens**:
+_Nouveaux textes_:
 
-  - SPEC_APPLI: Dispositions réglementaires
-
-_Codifié par_:
-
-  - Loi n°1926-12-13 JORF 15 décembre 1926
+  - Code des transports - art. L5545-5 (V)
 
 
 ###### Article 116
