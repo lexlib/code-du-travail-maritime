@@ -1,49 +1,45 @@
 # Code du travail maritime  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1996-02-27
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 15-2)](#2)
   - [Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires (art. 16 à 30)](#3)
-  - [Titre 3 : Obligations du marin envers l'armateur et réglementation du travail à bord des navires (art. 24-1 à 28)](#4)
+  - [Titre 3 : Obligations du marin envers l'armateur et réglementation du travail à bord des navires (art. 26-1 à 28)](#4)
   - [Titre 4 : Des obligations de l'armateur envers le marin (art. 31 à 92-1)](#5)
-    - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 31 à 70)](#6)
+    - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 31 à 71)](#6)
       - [Section 1 : Des divers modes de rémunération des marins et des règles de base à la liquidation des salaires (art. 31)](#7)
       - [Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires (art. 32 à 47)](#8)
       - [Section 2 : De la suspension et de la rétention des salaires (art. 48 à 49)](#9)
-      - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 51 à 56)](#10)
-      - [Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations (art. 59 à 65)](#11)
-      - [Section 5 : Des dettes des marins - Des saisies et cessions de salaires (art. 66 à 70)](#12)
+      - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 51 à 57)](#10)
+      - [Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations (art. 58 à 65)](#11)
+      - [Section 5 : Des dettes des marins - Des saisies et cessions de salaires (art. 66 à 71)](#12)
     - [Chapitre 2 : De la nourriture et du couchage (art. 73 à 78)](#13)
     - [Chapitre 3 : Des maladies et blessures des marins (art. 79 à 86)](#14)
     - [Chapitre 4 : Du rapatriement et de la conduite (art. 87 à 90)](#15)
     - [Chapitre 5 : Des créances et privilèges des marins (art. 91 à 92)](#16)
     - [Chapitre 6 : Des congés payés (art. 92-1)](#17)
-  - [Titre 4 : Obligations de l'armateur envers le marin (art. 33 à 85)](#18)
-    - [Chapitre 1 : Salaires fixes, profits éventuels et autres rémunérations (art. 33 à 71)](#19)
+  - [Titre 4 : Obligations de l'armateur envers le marin (art. 33 à 72)](#18)
+    - [Chapitre 1 : Salaires fixes, profits éventuels et autres rémunérations (art. 33 à 50)](#19)
       - [Section 1 : Divers modes de rémunération des marins et règles de base à la liquidation des salaires (art. 33 à 34)](#20)
       - [Section 2 : Suspension et rétention des salaires (art. 50)](#21)
-      - [Section 3 : Lieux et époques de liquidation et paiement des salaires (art. 52 à 57)](#22)
-      - [Section 4 : Avances, acomptes, délégations (art. 58 à 62)](#23)
-      - [Section 5 : Dettes des marins (art. 71)](#24)
-        - [Saisies et cessions de salaires (art. 71)](#25)
-    - [Chapitre 2 : Nourriture et couchage (art. 72 à 76)](#26)
-    - [Chapitre 3 : Maladies et blessures des marins (art. 80 à 85)](#27)
-  - [Titre 5 : Fin du contrat liant le marin à l'armateur (art. 93 à 102-20)](#28)
-    - [Indemnités auxquelles peut donner lieu la rupture du contrat (art. 93 à 102-20)](#29)
-      - [Chapitre 1 : Dispositions communes à tous les contrats d'engagement (art. 93 à 101)](#30)
-      - [Chapitre 2 : Contrats à durée indéterminée (art. 102-20)](#31)
-  - [Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat (art. 94 à 102-24)](#32)
-    - [Chapitre 1 : Dispositions communes à tous les contrats d'engagement (art. 94 à 102)](#33)
-    - [Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée (art. 102-1 à 102-21)](#34)
-    - [Chapitre 3 : Dispositions spéciales au contrat d'engagement à durée déterminée ou au voyage (art. 102-22 à 102-24)](#35)
-  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 104 à 119)](#36)
-    - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 104 à 108)](#37)
-    - [Chapitre 3 : Dispositions spéciales applicables aux marins étrangers (art. 119)](#38)
-  - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 103 à 117)](#39)
-    - [Chapitre 1 : Capitaine (art. 103 à 109)](#40)
-    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 110 à 117)](#41)
-  - [Titre 7 : Des litiges entre armateurs et marins (art. 121)](#42)
-  - [Titre 8 : Dispositions diverses (art. 132 à 133)](#43)
+    - [Chapitre 2 : Nourriture et couchage (art. 72)](#22)
+  - [Titre 5 : Fin du contrat liant le marin à l'armateur (art. 93 à 102-20)](#23)
+    - [Indemnités auxquelles peut donner lieu la rupture du contrat (art. 93 à 102-20)](#24)
+      - [Chapitre 1 : Dispositions communes à tous les contrats d'engagement (art. 93)](#25)
+      - [Chapitre 2 : Contrats à durée indéterminée (art. 102-20)](#26)
+  - [Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat (art. 94 à 102-24)](#27)
+    - [Chapitre 1 : Dispositions communes à tous les contrats d'engagement (art. 94 à 102)](#28)
+    - [Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée (art. 102-1 à 102-21)](#29)
+    - [Chapitre 3 : Dispositions spéciales au contrat d'engagement à durée déterminée ou au voyage (art. 102-22 à 102-24)](#30)
+  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 103 à 119)](#31)
+    - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 103 à 108)](#32)
+    - [Chapitre 3 : Dispositions spéciales applicables aux marins étrangers (art. 119)](#33)
+  - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 109 à 117)](#34)
+    - [Chapitre 1 : Capitaine (art. 109)](#35)
+    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 110 à 117)](#36)
+  - [Titre 7 : Des litiges entre armateurs et marins (art. 121)](#37)
+  - [Titre 8 : Inspection du travail maritime. (art. 122)](#38)
+  - [Titre 9 : Dispositions diverses (art. 133 à 134)](#39)
 # Titre 1 : Dispositions générales<a id=1></a>
 
 ###### Article 1
@@ -92,8 +88,10 @@ _Nouveaux textes_:
 Est considéré comme marin, pour l'application de la présente loi, quiconque s'engage, envers l'armateur ou son représentant,
 pour servir à bord d'un navire.
 
-Le personnel d'un navire doit, dans une proportion définie par arrêté du ministre chargé de la marine marchande, être
-Français.
+A bord des navires battant pavillon français, le capitaine et l'officier chargé de sa suppléance doivent être français. Les
+autres membres de l'équipage doivent être ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à
+l'accord sur l'Espace économique européen dans une proportion minimale fixée par arrêté du ministre chargé de la marine
+marchande, en fonction des caractéristiques techniques des navires ou de leur mode d'exploitation.
 
 **Liens relatifs à cet article**
 
@@ -103,7 +101,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°58-1358 du 27 décembre 1958, art 1 v. init.
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
 
 _Cité par_:
 
@@ -523,21 +521,27 @@ _Codifié par_:
 ###### Article 12
 
 Les conditions générales d'engagement doivent être tenues, par l'armateur, à la disposition des marins, et lecture doit en
-être donnée, par l'autorité maritime, au moment de l'inscription du marin au rôle d'équipage.
+être donnée, par l'autorité chargée de l'inspection du travail maritime, au moment de l'inscription du marin au rôle
+d'équipage.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi n°1926-12-13 JORF 15 décembre 1926
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
 
 
 ###### Article 13
 
-Le contrat d'engagement est visé par l'autorité maritime. 
+Le contrat d'engagement est visé par l'autorité chargée de l'inspection du travail maritime. 
 
-L'autorité maritime ne peut régler les conditions de l'engagement. Toutefois, elle a le droit de refuser son visa lorsque le
-contrat contient une clause contraire aux dispositions d'ordre public inscrites dans la présente loi.
+L'autorité chargée de l'inspection du travail maritime ne peut régler les conditions de l'engagement. Toutefois, elle a le
+droit de refuser son visa lorsque le contrat contient une clause contraire aux dispositions d'ordre public inscrites dans la
+présente loi.
 
 **Liens relatifs à cet article**
 
@@ -545,11 +549,19 @@ _Codifié par_:
 
   - Loi n°1926-12-13 JORF 15 décembre 1926
 
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Loi n°2006-10 du 5 janvier 2006 - art. 48 () JORF 6 janvier 2006
+
 
 ###### Article 14
 
-L'engagement maritime est mentionné sur un livret qui est délivré gratuitement au marin par l'autorité maritime et qui reste
-en sa possession.
+L'engagement maritime est mentionné sur un livret qui est délivré gratuitement au marin par l'autorité chargée de
+l'inspection du travail maritime et qui reste en sa possession. 
 
 Le livret ne doit contenir aucune appréciation des services rendus.
 
@@ -558,6 +570,14 @@ Le livret ne doit contenir aucune appréciation des services rendus.
 _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 15-1
@@ -815,6 +835,32 @@ _Nouveaux textes_:
   - Code des transports - art. L5544-4 (V)
 
 
+###### Article 24-1
+
+Les dispositions des articles L. 212-4-2 à L. 212-4-7 du code du travail sont applicables aux personnels navigants des
+entreprises d'armement maritime dans des conditions déterminées, compte tenu des adaptations nécessaires, par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°96-20 du 8 janvier 1996 - art. 1 (V)
+  - Code des pensions de retraite des marins frança... - art. L50 (VT)
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Cite_:
+
+  - Code du travail L212-4-2 à L212-4-7
+
+
 ###### Article 25
 
 Des décrets en conseil des ministres déterminent, le cas échéant, par genre de navigation ou catégorie de personnel les
@@ -1010,32 +1056,6 @@ _Nouveaux textes_:
 
 
 # Titre 3 : Obligations du marin envers l'armateur et réglementation du travail à bord des navires<a id=4></a>
-
-###### Article 24-1
-
-Les dispositions des articles L. 212-4-2 à L. 214-4-7 du code du travail sont applicables aux personnels navigants des
-entreprises d'armement maritime dans des conditions déterminées, compte tenu des adaptations nécessaires, par décret en
-Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Créé par_:
-
-  - Loi n°95-116 1995-02-04 art. 88 I 1° JORF 5 février 1995
-
-_Cité par_:
-
-  - Décret n°96-20 du 8 janvier 1996 - art. 1 (V)
-  - Code des pensions de retraite des marins frança... - art. L50 (VT)
-
-_Cite_:
-
-  - Code du travail L212-4-2 à L214-4-7
-
 
 ###### Article 26-1
 
@@ -1611,6 +1631,31 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
+###### Article 52
+
+Si la liquidation des salaires a lieu dans un port de France, le payement en est effectué immédiatement au marin ou à ses
+ayants droit. 
+
+Si la liquidation des salaires a lieu dans un port étranger, les salaires sont payés en France au marin ou à ses ayants
+droit. Toutefois, l'autorité chargée de l'inspection du travail maritime pourra prescrire le payement d'un acompte.
+
+Au cas d'un retard de payement imputable à l'armateur, le marin peut réclamer des dommages-intérêts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
 ###### Article 53
 
 Les parts de profit sont payées conformément aux conventions et usages. 
@@ -1628,6 +1673,42 @@ _Codifié par_:
 _Cite_:
 
   - Code du travail maritime - art. 34 (M)
+
+
+###### Article 54
+
+Lors du débarquement du marin mettant fin à son contrat d'engagement, l'autorité chargée de l'inspection du travail maritime
+reçoit les déclarations des parties sur le règlement des salaires. Il est fait mention au rôle d'équipage et sur le livret
+professionnel du marin de la déclaration faite, sans indication de somme.
+
+En aucun lieu, il ne peut être utilisé de moyens de paiement ayant pour objet de suppléer ou de remplacer les signes
+monétaires ayant cours légal. Si le paiement est fait à l'étranger en monnaie étrangère, il est effectué, sous le contrôle de
+l'autorité consulaire, au taux de change fixé pour les opérations de chancellerie.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article 54
+(date indéterminée).
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Dispositions réglementaires (Constitution art. 37)
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+  - Loi n°2016-816 du 20 juin 2016 - art. 16 (V)
 
 
 ###### Article 55
@@ -1667,7 +1748,58 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
+###### Article 57
+
+Toute transaction sur le montant du décompte des salaires est nulle si elle n'est pas homologuée par l'autorité chargée de
+l'inspection du travail maritime.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
 ### Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations<a id=11></a>
+
+###### Article 58
+
+Aucune avance de salaires ne peut être faite au marin qu'en présence et sous le contrôle de l'autorité chargée de
+l'inspection du travail maritime. 
+
+Les avances, quel qu'en soit le montant, ne sont imputables sur les salaires et parts à échoir au marin que jusqu'à
+concurrence de :
+
+trois mois de salaires pour les voiliers effectuant une navigation au long cours dépassant le cap Horn ou le cap de Bonne-
+Espérance ; deux mois pour les voiliers de long cours ne dépassant pas les caps, et un mois pour toutes les autres
+navigations. Les règlements prévus à l'article 34 détermineront, pour la navigation de grande pêche, le montant des avances
+qui peuvent être accordées aux marins. La partie de l'avance dépassant les sommes ainsi fixées reste acquise au marin à titre
+de prime d'engagement ou avance perdue. 
+
+Toutefois, des avances peuvent être accordées, au-delà des maxima prévus au paragraphe précédent, sous forme de délégation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Cite_:
+
+  - Code du travail maritime - art. 34 (M)
+
 
 ###### Article 59
 
@@ -1733,6 +1865,32 @@ _Abrogé par_:
 _Cité par_:
 
   - Code du travail maritime - art. 62 (V)
+
+
+###### Article 62
+
+Des délégations peuvent être consenties en cours de voyage, dans les conditions et limites indiquées à l'article 61 ci-
+dessus, par les marins qui n'ont pas usé, lors de leur embarquement, de la faculté de déléguer. Leur demande est remise au
+capitaine ; elle est transmise, sans délai, par le capitaine à l'armateur. Mention en est faite au rôle d'équipage par
+l'autorité chargée de l'inspection du travail maritime.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cite_:
+
+  - Code du travail maritime - art. 61 (V)
 
 
 ###### Article 63
@@ -1854,6 +2012,27 @@ _Nouveaux textes_:
   - Code des transports - art. L5544-58 (V)
 
 
+###### Article 71
+
+L'autorité chargée de l'inspection du travail maritime peut, lors du payement des salaires, sur la demande du créancier ou du
+cessionnaire et selon la procédure prévue par le code du travail, retenir la partie saisissable des salaires, profits et
+autres rémunérations des marins.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
 ## Chapitre 2 : De la nourriture et du couchage<a id=13></a>
 
 ###### Article 73
@@ -1916,6 +2095,37 @@ l'équipage.
 _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
+
+
+###### Article 76
+
+Nul ne peut introduire de boissons alcooliques à bord sans l'autorisation du capitaine. 
+
+Il est interdit d'embarquer, pour la consommation de l'équipage, officiers compris, une quantité de boissons alcooliques
+supérieure à une quantité réglementaire qui est déterminée, pour chaque genre de navigation, par un arrêté ministériel.
+
+Toute boisson alcoolique introduite contrairement aux dispositions du paragraphe premier du présent article est confisquée
+par le capitaine et est vendue par l'autorité chargée de l'inspection du travail maritime au profit de la caisse des
+invalides, sans préjudice des sanctions disciplinaires ou pénales.
+
+Toute boisson alcoolique conservée à bord contrairement aux dispositions du paragraphe 2 du présent article est saisie par
+toute autorité ayant qualité pour constater les infractions à la police ou à la sécurité de la navigation, ou par les agents
+de l'administration des douanes, et est vendue au profit de la caisse des invalides, sans préjudice des sanctions
+disciplinaires ou pénales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2016-1686 du 8 décembre 2016 - art. 10
 
 
 ###### Article 77
@@ -2026,6 +2236,200 @@ _Nouveaux textes_:
   - Code des transports - art. L5542-21 (V)
 
 
+###### Article 80
+
+Les soins à donner au marin cessent d'être dus lorsque le marin est guéri ou lorsque la blessure est consolidée, ou lorsque
+l'état du malade après la crise aiguë a pris un caractère chronique. 
+
+En cas de contestation sur le caractère chronique de la maladie, si l'une ou l'autre des parties le demande, le marin est
+soumis avant la tentative de conciliation prévue à l'article 120 du code du travail maritime, à l'examen pour avis d'une
+commission composée d'un médecin désigné par l'autorité chargée de l'inspection du travail maritime et de deux médecins
+choisis, l'un par l'armateur, l'autre par le marin, et agréés par l'autorité chargée de l'inspection du travail maritime. 
+
+En cas de carence de l'une des parties ou de son médecin, il est passé outre et la commission émet valablement son avis. 
+
+Les frais de visite ou d'expertise et les frais résultant du fonctionnement de la commission sont supportés par l'armateur si
+le marin est reconnu avoir encore besoin de soins et par le marin dans le cas contraire.
+
+**Nota:**
+
+L'article 120 du code du travail maritime a été abrogé et remplacé par l'article 2 du décret n° 59-1337 du 20 novembre 1959.
+
+**Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Dispositions réglementaires
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-22 (V)
+
+_Cite_:
+
+  - Code du travail maritime - art. 120 (Ab)
+
+
+###### Article 81
+
+Lorsque le navire se trouve dans son port d'armement, ou qu'en cours de voyage il touche à tout autre port, le marin qui a dû
+cesser son travail pour blessure ou maladie est laissé à terre et hospitalisé. S'il est débarqué dans un port de France, il
+peut, toutefois, réclamer le bénéfice des dispositions de l'article 82 ci-après. 
+
+La mise à terre et l'hospitalisation sont prononcées après avis du médecin du bord ou de tout autre médecin désigné par
+l'autorité chargée de l'inspection du travail maritime déclarant que l'état du malade exige son débarquement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+  - Code des pensions de retraite des marins français  - art. R8 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-23 (V)
+
+_Cite_:
+
+  - Code du travail maritime - art. 82 (V)
+
+
+###### Article 82
+
+En cas de débarquement en France et après établissement du diagnostic, le marin peut se faire soigner chez lui par un médecin
+de son choix, si son domicile se trouve au port français d'embarquement ou de débarquement, ou dans les environs immédiats de
+ces ports, là où le contrôle de l'armateur sur son traitement peut être exercé. Le déplacement du marin blessé ou malade
+devra être autorisé préalablement par l'autorité chargée de l'inspection du travail maritime, sur l'avis du médecin désigné
+par elle.
+
+L'armateur peut, au cours du traitement, désigner un médecin chargé de le renseigner sur l'état du marin. 
+
+Pendant tout le temps où il est soigné par le médecin de son choix dans les conditions déterminées par les paragraphes
+précédents, le marin malade ou blessé reçoit une indemnité journalière de nourriture dont le montant est fixé par le contrat
+d'engagement ou, à défaut, par les usages du port de débarquement. Il est remboursé, en outre, sur justifications, de ses
+frais médicaux et pharmaceutiques jusqu'à concurrence de la somme fixée par le juge du tribunal d'instance du canton où le
+marin est en traitement, conformément aux dispositions prises pour l'application de la législation concernant les accidents
+du travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+  - Code des pensions de retraite des marins français  - art. R8 (M)
+  - Code du travail maritime - art. 81 (V)
+  - Code du travail maritime - art. 82 bis (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-24 (V)
+  - Code des transports - art. L5715-1 (V)
+  - Code des transports - art. L5735-1 (V)
+  - Code des transports - art. L5745-1 (V)
+  - Code des transports - art. L5755-1 (V)
+
+
+###### Article 82 bis
+
+Le marin débarqué malade ou blessé hors de la métropole, et qui est rapatrié par l'autorité chargée de l'inspection du
+travail maritime, a droit, comme le marin débarqué en France, au bénéfice des dispositions de l'article 82 si, après son
+rapatriement et après visite du médecin désigné par l'autorité chargée de l'inspection du travail maritime, il est reconnu
+qu'il a encore besoin de soins.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-25 (V)
+
+_Cite_:
+
+  - Code du travail maritime - art. 82 (V)
+
+
 ###### Article 83
 
 Les salaires du marin lui sont payés pendant tout le temps où il a droit aux soins. 
@@ -2106,6 +2510,54 @@ _Nouveaux textes_:
 _Cite_:
 
   - Code du travail maritime - art. 83 (V)
+
+
+###### Article 85
+
+L'armateur peut se libérer de tous soins et, si le marin a été débarqué hors de France, des frais de rapatriement prévus aux
+articles 86 et 88 ci-après, en versant une somme forfaitaire entre les mains de l'autorité chargée de l'inspection du travail
+maritime, au moment où le marin a été laissé à terre. 
+
+Les conditions dans lesquelles ce versement pourra être effectué, ainsi que les tarifs servant à en déterminer le montant
+seront arrêtés par un décret en Conseil d'Etat qui précisera, en outre, les attributions et les pouvoirs de contrôle de
+l'autorité chargée de l'inspection du travail maritime substituée à l'armateur par ce versement. 
+
+Avis du délaissement forfaitaire effectué par l'armateur est donné au marin par l'autorité chargée de l'inspection du travail
+maritime.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cité par_:
+
+  - Décret n°1938-06-17. du 17 juin 1938
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
+  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
+  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
+  - Code des pensions de retraite des marins français  - art. R8 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
+  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cite_:
+
+  - Code du travail maritime - art. 86 (V)
 
 
 ###### Article 86
@@ -2326,17 +2778,21 @@ ou sur le fret, doit déterminer les dépenses et charges à déduire du produit
 déduction, autres que celles stipulées, ne peut être admise au détriment du marin. 
 
 Toutefois, à défaut de stipulation contraire expresse, la charge des congés payés sur les navires de pêche armés
-exclusivement à la part s'impute sur les frais communs du navire. 
+exclusivement à la part s'impute sur les frais communs du navire.
 
 Lors du règlement, le décompte des dépenses et charges communes et le décompte des produits et bénéfices sont remis par
-l'armateur sous sa signature, avec leurs justifications et pièces comptables originales, à l'autorité maritime chargée de la
-liquidation des comptes individuels de salaires.
+l'armateur sous sa signature, avec leurs justifications et pièces comptables originales, à l'autorité chargée de l'inspection
+du travail maritime chargée de la liquidation des comptes individuels de salaires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
 
 **Liens**:
 
@@ -2395,124 +2851,7 @@ _Codifié par_:
   - Loi du 13 décembre 1926, v. init.
 
 
-### Section 3 : Lieux et époques de liquidation et paiement des salaires<a id=22></a>
-
-###### Article 52
-
-Si la liquidation des salaires a lieu dans un port de France, le payement en est effectué immédiatement au marin ou à ses
-ayants droit.
-
-Si la liquidation des salaires a lieu dans un port étranger, les salaires sont payés en France au marin ou à ses ayants
-droit. Toutefois, l'autorité maritime pourra prescrire le payement d'un acompte. 
-
-Au cas d'un retard de payement imputable à l'armateur, le marin peut réclamer des dommages-intérêts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-
-###### Article 54
-
-Lors du débarquement du marin mettant fin à son contrat d'engagement, l'autorité maritime reçoit les déclarations des parties
-sur le règlement des salaires. Il est fait mention au rôle d'équipage et sur le livret professionnel du marin de la
-déclaration faite, sans indication de somme. 
-
-En aucun lieu, il ne peut être utilisé de moyens de paiement ayant pour objet de suppléer ou de remplacer les signes
-monétaires ayant cours légal. Si le paiement est fait à l'étranger en monnaie étrangère, il est effectué, sous le contrôle de
-l'autorité consulaire, au taux de change fixé pour les opérations de chancellerie.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Dispositions réglementaires (Constitution art. 37)
-
-_Modifié par_:
-
-  - Loi n°60-865 1960-08-06 art. 9 JORF 17 août 1960
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-
-###### Article 57
-
-Toute transaction sur le montant du décompte des salaires est nulle si elle n'est pas homologuée par l'autorité maritime.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-
-### Section 4 : Avances, acomptes, délégations<a id=23></a>
-
-###### Article 58
-
-Aucune avance de salaires ne peut être faite au marin qu'en présence et sous le contrôle de l'autorité maritime.
-
-Les avances, quel qu'en soit le montant, ne sont imputables sur les salaires ou parts à échoir au marin que jusqu'à
-concurrence de :
-
-trois mois de salaires pour les voiliers effectuant une navigation au long cours dépassant le cap Horn ou le cap de Bonne-
-Espérance ; deux mois pour les voiliers de long cours ne dépassant pas les caps, et un mois pour toutes les autres
-navigations. Les règlements prévus à l'article 34 détermineront pour la navigation de grande pêche, le montant des avances
-qui peuvent être accordées aux marins. La partie de l'avance dépassant les sommes ainsi fixées reste acquise au marin à titre
-de prime d'engagement ou avance perdue. 
-
-Toutefois, des avances peuvent être accordées, au-delà des maxima prévus au paragraphe précédent, sous forme de délégation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Cite_:
-
-  - Code du travail maritime - art. 34 (M)
-
-
-###### Article 62
-
-Des délégations peuvent être consenties, en cours de voyage, dans les conditions et limites indiquées à l'article 61 ci-
-dessus, par les marins qui n'ont pas usé, lors de leur embarquement, de la faculté de déléguer. Leur demande est remise au
-capitaine ; elle est transmise, sans délai, par le capitaine à l'armateur. Mention en est faite au rôle d'équipage par
-l'autorité maritime.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Cite_:
-
-  - Code du travail maritime - art. 61 (V)
-
-
-### Section 5 : Dettes des marins<a id=24></a>
-
-#### Saisies et cessions de salaires<a id=25></a>
-
-###### Article 71
-
-L'autorité maritime peut, lors du payement des salaires, sur la demande du créancier ou du cessionnaire et selon la procédure
-prévue par le Code du travail, retenir la partie saisissable des salaires, profits et autres rémunérations des marins.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-
-## Chapitre 2 : Nourriture et couchage<a id=26></a>
+## Chapitre 2 : Nourriture et couchage<a id=22></a>
 
 ###### Article 72
 
@@ -2531,216 +2870,11 @@ _Cité par_:
   - Code du travail maritime - art. 72-1 (V)
 
 
-###### Article 76
+# Titre 5 : Fin du contrat liant le marin à l'armateur<a id=23></a>
 
-Nul ne peut introduire de boissons alcooliques à bord sans l'autorisation du capitaine.    Il est interdit d'embarquer, pour
-la consommation de l'équipage, officiers compris, une quantité de boissons alcooliques supérieure à une quantité
-réglementaire qui est déterminée, pour chaque genre de navigation, par un arrêté ministériel. 
+## Indemnités auxquelles peut donner lieu la rupture du contrat<a id=24></a>
 
-Toute boisson alcoolique introduite contrairement aux dispositions du paragraphe 1er du présent article est confisquée par le
-capitaine et est vendue par l'autorité maritime au profit de la caisse des invalides, sans préjudice des sanctions
-disciplinaires ou pénales.
-
-Toute boisson alcoolique conservée à bord contrairement aux dispositions du paragraphe 2 du présent article est saisie par
-toute autorité ayant qualité pour constater les infractions à la police ou à la sécurité de la navigation, ou par les agents
-de l'administration des douanes, et est vendue au profit de la caisse des invalides, sans préjudice des sanctions
-disciplinaires ou pénales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-
-## Chapitre 3 : Maladies et blessures des marins<a id=27></a>
-
-###### Article 80
-
-Les soins à donner au marin cessent d'être dus lorsque le marin est guéri ou lorsque la blessure est consolidée, ou lorsque
-l'état du malade après la crise aiguë a pris un caractère chronique. 
-
-En cas de contestation sur le caractère chronique de la maladie, si l'une ou l'autre des parties le demande, le marin est
-soumis avant la tentative de conciliation prévue à l'article 120 du Code du travail maritime, à l'examen pour avis d'une
-commission composée d'un médecin désigné par l'autorité maritime et de deux médecins choisis, l'un par l'armateur, l'autre
-par le marin, et agréés par l'autorité maritime. 
-
-En cas de carence de l'une des parties ou de son médecin, il est passé outre et la commission émet valablement son avis. 
-
-Les frais de visite ou d'expertise et les frais résultant du fonctionnement de la commission sont supportés par l'armateur si
-le marin est reconnu avoir encore besoin de soins et par le marin dans le cas contraire.
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Dispositions réglementaires
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Cité par_:
-
-  - Décret n°1938-06-17. du 17 juin 1938
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
-  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
-
-_Modifié par_:
-
-  - Décret n°59-626 1959-05-12 art. 11 JORF 16 mai 1959
-
-_Cite_:
-
-  - Décret n°59-1337 du 20 novembre 1959 - art. 2 (V)
-  - Code du travail maritime - art. 120 (Ab)
-
-
-###### Article 81
-
-Lorsque le navire se trouve dans son port d'armement, ou qu'en cours de voyage il touche à tout autre port, le marin qui a dû
-cesser son travail pour blessure ou maladie est laissé à terre et hospitalisé. S'il est débarqué dans un port de France, il
-peut toutefois, réclamer le bénéfice des dispositions de l'article 82 ci-après.
-
-La mise à terre et l'hospitalisation sont prononcées après avis du médecin du bord ou de tout autre médecin désigné par
-l'autorité maritime déclarant que l'état du malade exige son débarquement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Cité par_:
-
-  - Décret n°1938-06-17. du 17 juin 1938
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
-  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
-  - Code des pensions de retraite des marins français  - art. R8 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
-
-_Cite_:
-
-  - Code du travail maritime - art. 82 (M)
-
-
-###### Article 82
-
-En cas de débarquement en France et après établissement du diagnostic, le marin peut se faire soigner chez lui par un médecin
-de son choix, si son domicile se trouve au port français d'embarquement ou de débarquement, ou dans les environs immédiats de
-ces ports, là où le contrôle de l'armateur sur son traitement peut être exercé. Le déplacement du marin blessé ou malade
-devra être autorisé préalablement par l'autorité maritime, sur l'avis du médecin désigné par elle. 
-
-L'armateur peut, au cours du traitement, désigner un médecin chargé de le renseigner sur l'état du marin. 
-
-Pendant tout le temps où il est soigné par le médecin de son choix dans les conditions déterminées par les paragraphes
-précédents, le marin malade ou blessé reçoit une indemnité journalière de nourriture dont le montant est fixé par le contrat
-d'engagement ou, à défaut, par les usages du port de débarquement. Il est remboursé en outre, sur justifications de ses frais
-médicaux et pharmaceutiques jusqu'à concurrence de la somme fixée par le juge du tribunal d'instance du canton où le marin
-est en traitement, conformément aux dispositions prises pour l'application de la législation concernant les accidents du
-travail.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Cité par_:
-
-  - Décret n°1938-06-17. du 17 juin 1938
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
-  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
-  - Code des pensions de retraite des marins français  - art. R8 (M)
-  - Code du travail maritime - art. 81 (V)
-  - Code du travail maritime - art. 82 bis (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
-
-
-###### Article 82 bis
-
-Le marin débarqué malade ou blessé hors de la métropole, et qui est rapatrié par l'autorité maritime, a droit, comme le marin
-débarqué en France, au bénéfice des dispositions de l'article 82, si, après son rapatriement et après visite du médecin
-désigné par l'autorité maritime, il est reconnu qu'il a encore besoin de soins.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Cite_:
-
-  - Code du travail maritime - art. 82 (M)
-
-
-###### Article 85
-
-L'armateur peut se libérer de tous soins et, si le marin a été débarqué hors de France, des frais de rapatriement prévus aux
-articles 86 et 88 ci-après, en versant une somme forfaitaire entre les mains de l'autorité maritime au moment où le marin a
-été laissé à terre. 
-
-Les conditions dans lesquelles ce versement pourra être effectué, ainsi que les tarifs servant à en déterminer le montant
-seront arrêtés par un décret en Conseil d'Etat qui précisera, en outre, les attributions et les pouvoirs de contrôle de
-l'autorité maritime substituée à l'armateur par ce versement. 
-
-Avis du délaissement forfaitaire effectué par l'armateur est donné au marin par l'autorité maritime.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Cité par_:
-
-  - Décret n°1938-06-17. du 17 juin 1938
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 29 (M)
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 3 (V)
-  - Décret n°1938-06-17. du 17 juin 1938 - art. 3-1 (M)
-  - Décret n°79-934 du 2 novembre 1979 - art. 3 (V)
-  - Code des pensions de retraite des marins français  - art. R8 (M)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
-  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
-
-_Cite_:
-
-  - Code du travail maritime - art. 86 (V)
-  - Code du travail maritime - art. 88 (M)
-
-
-# Titre 5 : Fin du contrat liant le marin à l'armateur<a id=28></a>
-
-## Indemnités auxquelles peut donner lieu la rupture du contrat<a id=29></a>
-
-### Chapitre 1 : Dispositions communes à tous les contrats d'engagement<a id=30></a>
+### Chapitre 1 : Dispositions communes à tous les contrats d'engagement<a id=25></a>
 
 ###### Article 93
 
@@ -2779,48 +2913,7 @@ _Cité par_:
   - Code du travail maritime - art. 102-1 (Ab)
 
 
-###### Article 98
-
-Dans les ports métropolitains, le capitaine peut congédier le marin sans autorisation de l'autorité maritime. 
-
-Hors des ports métropolitains, il ne peut le faire qu'avec cette autorisation. 
-
-Dans l'un et l'autre cas, la cause du congédiement est portée au rôle d'équipage.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
-
-_Cité par_:
-
-  - Code du travail maritime - art. 87 (V)
-
-
-###### Article 101
-
-Le marin a le droit de demander la résiliation du contrat d'engagement pour inexécution des obligations de l'armateur.
-
-Dans les ports métropolitains et dans ceux des départements et territoires d'outre-mer, l'autorité maritime peut autoriser le
-marin à débarquer immédiatement pour motif grave.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
-
-
-### Chapitre 2 : Contrats à durée indéterminée<a id=31></a>
+### Chapitre 2 : Contrats à durée indéterminée<a id=26></a>
 
 ###### Article 102-20
 
@@ -2855,9 +2948,9 @@ _Cite_:
   - Code du travail maritime 102-6, L122-14, L122-14-1, L122-14-2, L122-14-4
 
 
-# Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat<a id=32></a>
+# Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat<a id=27></a>
 
-## Chapitre 1 : Dispositions communes à tous les contrats d'engagement<a id=33></a>
+## Chapitre 1 : Dispositions communes à tous les contrats d'engagement<a id=28></a>
 
 ###### Article 94
 
@@ -2982,6 +3075,34 @@ _Cite_:
   - Code du travail maritime
 
 
+###### Article 98
+
+Dans les ports métropolitains, le capitaine peut congédier le marin sans autorisation de l'autorité chargée de l'inspection
+du travail maritime.
+
+Hors des ports métropolitains, il ne peut le faire qu'avec cette autorisation.
+
+Dans l'un et l'autre cas, la cause du congédiement est portée au rôle d'équipage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
+
+_Cité par_:
+
+  - Code du travail maritime - art. 87 (V)
+
+
 ###### Article 99
 
 Sous réserve de l'application, le cas échéant, des dispositions spéciales du chapitre 2 ci-après, le marin lié par un contrat
@@ -3037,6 +3158,23 @@ _Cite_:
   - Code du travail maritime - art. 95
 
 
+###### Article 101
+
+Le marin a le droit de demander la résiliation du contrat d'engagement pour inexécution des obligations de l'armateur.
+
+L'autorité chargée de l'inspection du travail maritime peut autoriser le marin à débarquer immédiatement pour motif grave.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+
 ###### Article 102
 
 En aucun cas, le droit pour le marin à résilier le contrat d'engagement ne peut avoir effet au terme du délai de préavis : 
@@ -3060,7 +3198,7 @@ _Modifié par_:
   - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
 
 
-## Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée<a id=34></a>
+## Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée<a id=29></a>
 
 ###### Article 102-1
 
@@ -3464,7 +3602,7 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-## Chapitre 3 : Dispositions spéciales au contrat d'engagement à durée déterminée ou au voyage<a id=35></a>
+## Chapitre 3 : Dispositions spéciales au contrat d'engagement à durée déterminée ou au voyage<a id=30></a>
 
 ###### Article 102-22
 
@@ -3556,9 +3694,34 @@ _Nouveaux textes_:
   - SPEC_APPLI: Code du travail maritime 10-7 : non application
 
 
-# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=36></a>
+# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=31></a>
 
-## Chapitre 1 : Dispositions spéciales applicables au capitaine<a id=37></a>
+## Chapitre 1 : Dispositions spéciales applicables au capitaine<a id=32></a>
+
+###### Article 103
+
+Les conventions passées entre l'armateur et le capitaine relativement à la fonction commerciale du capitaine en qualité de
+mandataire de l'armateur peuvent être valablement constatées sans l'intervention de l'autorité chargée de l'inspection du
+travail maritime.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5412-8 (V)
+
 
 ###### Article 104
 
@@ -3677,7 +3840,7 @@ _Nouveaux textes_:
   - Code des transports - art. L5542-47 (V)
 
 
-## Chapitre 3 : Dispositions spéciales applicables aux marins étrangers<a id=38></a>
+## Chapitre 3 : Dispositions spéciales applicables aux marins étrangers<a id=33></a>
 
 ###### Article 119
 
@@ -3712,40 +3875,32 @@ _Modifié par_:
   - Loi n°1948-09-25 art. 2 JORF 30 SEPTEMBRE 1948
 
 
-# Titre 6 : Dispositions spéciales à certaines catégories de marins<a id=39></a>
+# Titre 6 : Dispositions spéciales à certaines catégories de marins<a id=34></a>
 
-## Chapitre 1 : Capitaine<a id=40></a>
-
-###### Article 103
-
-Les conventions passées entre l'armateur et le capitaine relativement à la fonction commerciale du capitaine en qualité de
-mandataire de l'armateur peuvent être valablement constatées sans l'intervention de l'autorité maritime.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
+## Chapitre 1 : Capitaine<a id=35></a>
 
 ###### Article 109
 
 L'armateur peut toujours congédier le capitaine, sauf dommages-intérêts en cas de renvoi injustifié. Le congédiement du
-capitaine n'est pas subordonné, hors des ports métropolitains, à l'autorisation de l'autorité maritime prévue au paragraphe 2
-de l'article 95 ci-dessus.
+capitaine n'est pas subordonné, hors des ports métropolitains, à l'autorisation de l'autorité chargée de l'inspection du
+travail maritime prévue au paragraphe 2 de l'article 95 ci-dessus.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
 
 _Cite_:
 
   - Code du travail maritime - art. 95 (M)
 
 
-## Chapitre 2 : Marins de moins de 21 ans et femmes mariées<a id=41></a>
+## Chapitre 2 : Marins de moins de 21 ans et femmes mariées<a id=36></a>
 
 ###### Article 110
 
@@ -3914,7 +4069,7 @@ _Codifié par_:
   - Loi n°1926-12-13 JORF 15 décembre 1926
 
 
-# Titre 7 : Des litiges entre armateurs et marins<a id=42></a>
+# Titre 7 : Des litiges entre armateurs et marins<a id=37></a>
 
 ###### Article 121
 
@@ -3944,41 +4099,28 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Titre 8 : Dispositions diverses<a id=43></a>
+# Titre 8 : Inspection du travail maritime.<a id=38></a>
 
-###### Article 132
+###### Article 122
 
-Pour l'application de la présente loi, l'expression " Autorité maritime " désigne   : 
-
-En France métropolitaine et dans les départements d'Algérie, de la Guyane, de la Martinique, de la Guadeloupe et de la
-Réunion : le fonctionnaire chargé du service des affaires maritimes ; 
-
-Dans les territoires d'outre-mer de la République : le chef du service des administrateurs des affaires maritimes ; 
-
-Dans les Etats de la Communauté : le fonctionnaire chargé des services déconcentrés et communs en matière de transports
-maritimes ; 
-
-Dans les rades et ports étrangers : l'autorité consulaire, à l'exclusion des agents consulaires.
-
-**Nota:**
-
-*Nota : Loi d'orientation 92-125 du 6 février 1992 art. 3 : Dans tous les textes législatifs et réglementaires, la référence
-à "services extérieurs" est remplacée par la référence à "services déconcentrés".
+L'inspection du travail maritime est régie par les deuxième et troisième alinéas de l'article L. 742-1 du code du travail.
 
 **Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Cite_:
+
+  - Code du travail - art. L742-1 (M)
 
 _Codifié par_:
 
   - Loi n°1926-12-13 JORF 15 décembre 1926
 
-_Modifié par_:
 
-  - Loi n°60-1156 1960-11-02 art. 3 JORF 5 novembre 1960
-
-_Abrogé par_:
-
-  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
-
+# Titre 9 : Dispositions diverses<a id=39></a>
 
 ###### Article 133
 
@@ -3989,10 +4131,54 @@ fixent les conditions du contrat d'engagement.
 
 _Codifié par_:
 
-  - Loi n°1926-12-13 JORF 15 décembre 1926
+  - Loi du 13 décembre 1926, v. init.
 
 _Modifié par_:
 
-  - Loi n°60-1156 1960-11-02 art. 3 JORF 5 novembre 1960
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 134
+
+Sont abrogées, à partir de la promulgation de la présente loi :
+
+Les dispositions des anciens règlements relatives à l'engagement des gens de mer, et notamment celles des édits de mars 1584
+et juillet 1720, de l'article 18 de l'ordonnance de 1681, du règlement du 8 mars 1722, de la déclaration du roi du 18
+décembre 1728, de l'arrêt du Conseil du 19 janvier 1734, de l'ordonnance du 1er novembre 1745, du titre XIV de l'ordonnance
+du 31 octobre 1784.
+
+L'article 20 de l'arrêté du 7 vendémiaire an VIII.
+
+Les articles 218, 238, 250 à 272 inclus, 319 du Code de commerce.
+
+L'article 37 (paragraphe 1er) du règlement du 17 juillet 1816.
+
+L'article 3 (paragraphe 3) de l'ordonnance du 9 octobre 1837.
+
+Le décret-loi du 4 mars 1852.
+
+Les articles 21 à 31 de la loi du 17 avril 1907 dans celles de leurs dispositions maintenues en vigueur par la loi du 2 août
+1919.
+
+Et d'une manière générale, toutes autres dispositions législatives ou réglementaires contraires aux prescriptions de la
+présente loi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
