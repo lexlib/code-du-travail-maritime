@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1934-07-13
+Version Consolidée au 1935-10-31
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -193,6 +193,17 @@ _Cite_:
 _Cité par_:
 
   - Code du travail maritime - art. 4 (V)
+
+
+###### Article 8
+
+Dispositions abrogées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
 
 
 ###### Article 9
