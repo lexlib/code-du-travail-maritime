@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1960-08-17
+Version Consolidée au 1960-11-05
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -30,10 +30,11 @@ Version Consolidée au 1960-08-17
   - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 104 à 119)](#27)
     - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 104 à 108)](#28)
     - [Chapitre 3 : Dispositions spéciales applicables aux marins étrangers (art. 119)](#29)
-  - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 103 à 118)](#30)
+  - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 103 à 117)](#30)
     - [Chapitre 1 : Capitaine (art. 103 à 109)](#31)
-    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 111 à 118)](#32)
+    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 110 à 117)](#32)
   - [Titre 7 : Des litiges entre armateurs et marins (art. 121)](#33)
+  - [Titre 8 : Dispositions diverses (art. 132 à 133)](#34)
 # Titre 1 : Dispositions générales<a id=1></a>
 
 ###### Article 1
@@ -2326,6 +2327,33 @@ _Cite_:
 
 ## Chapitre 2 : Marins de moins de 21 ans et femmes mariées<a id=32></a>
 
+###### Article 110
+
+L'autorisation donnée au premier embarquement par la personne ou l'autorité investie du droit de garde à son égard ou, à
+défaut, par le tribunal d'instance, confère à ce mineur capacité pour accomplir tous les actes se rattachant à ses
+engagements, notamment pour toucher ses salaires. 
+
+Le retrait de l'autorisation ne peut être opposé aux tiers s'il n'a pas été porté à la connaissance avant la formation du
+contrat.
+
+L'autorisation ne peut être retirée quand le mineur a atteint l'âge de dix-huit ans.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Loi n°60-1156 1960-11-02 art. 1 JORF 5 novembre 1960
+
+_Cité par_:
+
+  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+  - Code du travail maritime - art. 7 (V)
+
+
 ###### Article 111
 
 Tout mineur embarqué pour les services du pont, de la machine ou du service général, est qualifié mousse s'il est âgé de
@@ -2466,21 +2494,6 @@ _Codifié par_:
   - Loi n°1926-12-13 JORF 15 décembre 1926
 
 
-###### Article 118
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-_Abrogé par_:
-
-  - Loi n°60-1156 1960-11-02 art. 2 JORF 5 novembre 1960
-
-
 # Titre 7 : Des litiges entre armateurs et marins<a id=33></a>
 
 ###### Article 121
@@ -2509,5 +2522,57 @@ _Cité par_:
 _Abrogé par_:
 
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+# Titre 8 : Dispositions diverses<a id=34></a>
+
+###### Article 132
+
+Pour l'application de la présente loi, l'expression " Autorité maritime " désigne   : 
+
+En France métropolitaine et dans les départements d'Algérie, de la Guyane, de la Martinique, de la Guadeloupe et de la
+Réunion : le fonctionnaire chargé du service des affaires maritimes ; 
+
+Dans les territoires d'outre-mer de la République : le chef du service des administrateurs des affaires maritimes ; 
+
+Dans les Etats de la Communauté : le fonctionnaire chargé des services déconcentrés et communs en matière de transports
+maritimes ; 
+
+Dans les rades et ports étrangers : l'autorité consulaire, à l'exclusion des agents consulaires.
+
+**Nota:**
+
+*Nota : Loi d'orientation 92-125 du 6 février 1992 art. 3 : Dans tous les textes législatifs et réglementaires, la référence
+à "services extérieurs" est remplacée par la référence à "services déconcentrés".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+_Modifié par_:
+
+  - Loi n°60-1156 1960-11-02 art. 3 JORF 5 novembre 1960
+
+_Abrogé par_:
+
+  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+
+
+###### Article 133
+
+Sauf dans les cas où la convention contraire est prévue par la présente loi, les parties ne peuvent déroger aux règles qui
+fixent les conditions du contrat d'engagement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+_Modifié par_:
+
+  - Loi n°60-1156 1960-11-02 art. 3 JORF 5 novembre 1960
 
 
