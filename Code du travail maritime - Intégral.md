@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1950-07-30
+Version Consolidée au 1955-05-16
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -2303,6 +2303,29 @@ _Abrogé par_:
 _Codifié par_:
 
   - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
+###### Article 112
+
+Dispositions abrogées.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°55-691 1955-05-20 art. 2 JORF 24 mai 1955
+
+_Abrogé par_:
+
+  - Décret n°59-626 1959-05-12 art. 12 JORF 16 mai 1959
+
+_Codifié par_:
+
+  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+_Cité par_:
+
+  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
 
 
 ###### Article 113
