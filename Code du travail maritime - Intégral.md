@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1945-11-03
+Version Consolidée au 1948-09-30
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -27,12 +27,13 @@ Version Consolidée au 1945-11-03
         - [Saisies et cessions de salaires (art. 67 à 69)](#24)
     - [Chapitre 2 : Nourriture et couchage (art. 72 à 76)](#25)
     - [Chapitre 3 : Maladies et blessures des marins (art. 81 à 85)](#26)
-  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 104 à 108)](#27)
+  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 104 à 119)](#27)
     - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 104 à 108)](#28)
-  - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 103 à 118)](#29)
-    - [Chapitre 1 : Capitaine (art. 103 à 109)](#30)
-    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 113 à 118)](#31)
-  - [Titre 7 : Litiges entre armateurs et marins (art. 120 à 131)](#32)
+    - [Chapitre 3 : Dispositions spéciales applicables aux marins étrangers (art. 119)](#29)
+  - [Titre 6 : Dispositions spéciales à certaines catégories de marins (art. 103 à 118)](#30)
+    - [Chapitre 1 : Capitaine (art. 103 à 109)](#31)
+    - [Chapitre 2 : Marins de moins de 21 ans et femmes mariées (art. 113 à 118)](#32)
+  - [Titre 7 : Litiges entre armateurs et marins (art. 120 à 131)](#33)
 # Titre 1 : Dispositions générales<a id=1></a>
 
 ###### Article 1
@@ -2209,9 +2210,44 @@ _Nouveaux textes_:
   - Code des transports - art. L5542-47 (V)
 
 
-# Titre 6 : Dispositions spéciales à certaines catégories de marins<a id=29></a>
+## Chapitre 3 : Dispositions spéciales applicables aux marins étrangers<a id=29></a>
 
-## Chapitre 1 : Capitaine<a id=30></a>
+###### Article 119
+
+Les dispositions de la présente loi sont applicables aux marins étrangers engagés sur les navires français. 
+
+Toutefois, l'armateur sera considéré comme ayant satisfait à l'obligation de rapatriement prévue à l'article 87 si les marins
+étrangers sont ramenés à leur port d'embarquement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5715-8 (V)
+  - Code des transports - art. L5735-9 (Ab)
+  - Code des transports - art. L5745-9 (Ab)
+  - Code des transports - art. L5755-9 (Ab)
+
+_Cite_:
+
+  - Code du travail maritime - art. 87 (V)
+
+_Modifié par_:
+
+  - Loi n°1948-09-25 art. 2 JORF 30 SEPTEMBRE 1948
+
+
+# Titre 6 : Dispositions spéciales à certaines catégories de marins<a id=30></a>
+
+## Chapitre 1 : Capitaine<a id=31></a>
 
 ###### Article 103
 
@@ -2242,7 +2278,7 @@ _Cite_:
   - Code du travail maritime - art. 95 (M)
 
 
-## Chapitre 2 : Marins de moins de 21 ans et femmes mariées<a id=31></a>
+## Chapitre 2 : Marins de moins de 21 ans et femmes mariées<a id=32></a>
 
 ###### Article 113
 
@@ -2281,7 +2317,7 @@ _Abrogé par_:
   - Loi n°60-1156 1960-11-02 art. 2 JORF 5 novembre 1960
 
 
-# Titre 7 : Litiges entre armateurs et marins<a id=32></a>
+# Titre 7 : Litiges entre armateurs et marins<a id=33></a>
 
 ###### Article 120
 
