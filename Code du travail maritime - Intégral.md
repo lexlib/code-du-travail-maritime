@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1955-05-30
+Version Consolidée au 1958-12-30
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -12,19 +12,19 @@ Version Consolidée au 1955-05-30
       - [Section 2 : De la suspension et de la rétention des salaires (art. 49)](#9)
       - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 51 à 56)](#10)
       - [Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations (art. 59 à 65)](#11)
-      - [Section 5 : Des dettes des marins - Des saisies et cessions de salaires (art. 67 à 70)](#12)
+      - [Section 5 : Des dettes des marins - Des saisies et cessions de salaires (art. 66 à 70)](#12)
     - [Chapitre 2 : De la nourriture et du couchage (art. 73 à 78)](#13)
     - [Chapitre 3 : Des maladies et blessures des marins (art. 79 à 86)](#14)
     - [Chapitre 4 : Du rapatriement et de la conduite (art. 87 à 90)](#15)
     - [Chapitre 5 : Des créances et privilèges des marins (art. 91 à 92)](#16)
   - [Titre 4 : Obligations de l'armateur envers le marin (art. 34 à 85)](#17)
-    - [Chapitre 1 : Salaires fixes, profits éventuels et autres rémunérations (art. 34 à 69)](#18)
+    - [Chapitre 1 : Salaires fixes, profits éventuels et autres rémunérations (art. 34 à 71)](#18)
       - [Section 1 : Divers modes de rémunération des marins et règles de base à la liquidation des salaires (art. 34)](#19)
       - [Section 2 : Suspension et rétention des salaires (art. 48 à 50)](#20)
       - [Section 3 : Lieux et époques de liquidation et paiement des salaires (art. 52 à 57)](#21)
       - [Section 4 : Avances, acomptes, délégations (art. 58 à 62)](#22)
-      - [Section 5 : Dettes des marins (art. 67 à 69)](#23)
-        - [Saisies et cessions de salaires (art. 67 à 69)](#24)
+      - [Section 5 : Dettes des marins (art. 71)](#23)
+        - [Saisies et cessions de salaires (art. 71)](#24)
     - [Chapitre 2 : Nourriture et couchage (art. 72 à 76)](#25)
     - [Chapitre 3 : Maladies et blessures des marins (art. 81 à 85)](#26)
   - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 104 à 119)](#27)
@@ -79,19 +79,21 @@ _Nouveaux textes_:
 
 ###### Article 3
 
-Est considéré comme marin, pour l'application de la présente loi, toute personne, de l'un ou l'autre sexe, qui s'engage,
-envers l'armateur ou son représentant, pour servir à bord d'un navire.
+Est considéré comme marin, pour l'application de la présente loi, quiconque s'engage, envers l'armateur ou son représentant,
+pour servir à bord d'un navire.
 
-Le personnel du navire est placé sous l'autorité du capitaine.
-
-Il se divise en trois catégories : le personnel du pont, le personnel des machines et le personnel des agents du service
-général.
+Le personnel d'un navire doit, dans une proportion définie par arrêté du ministre chargé de la marine marchande, être
+Français.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
+
+_Modifié par_:
+
+  - Ordonnance n°58-1358 du 27 décembre 1958, art 1 v. init.
 
 _Cité par_:
 
@@ -1228,24 +1230,11 @@ _Nouveaux textes_:
 
 ### Section 5 : Des dettes des marins - Des saisies et cessions de salaires<a id=12></a>
 
-###### Article 67
+###### Article 66
 
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Abrogé par_:
-
-  - Ordonnance n°58-1358 du 27 décembre 1958, art 6 v. init.
-
-
-###### Article 68
-
-Article abrogé
+Les salaires, profits et autres rémunérations des marins, y compris les salaires qui leur sont accordés en cas de maladie ou
+de blessure par application des articles 79,83 et 84 du présent code, sont saisissables ou cessibles dans les conditions
+fixées par le code du travail.
 
 **Liens relatifs à cet article**
 
@@ -1253,24 +1242,17 @@ _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Ordonnance n°58-1358 du 27 décembre 1958, art 6 v. init.
-
-
-###### Article 69
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
+  - Ordonnance 58-1358 1958-12-27 art. 5 JORF 30 décembre 1958
 
 _Abrogé par_:
 
-  - Ordonnance n°58-1358 du 27 décembre 1958, art 6 v. init.
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cite_:
+
+  - Code du travail maritime - art. 79 (V)
 
 
 ###### Article 70
@@ -1903,53 +1885,16 @@ _Cite_:
 
 #### Saisies et cessions de salaires<a id=24></a>
 
-###### Article 67
+###### Article 71
 
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Ordonnance 58-1358 1958-12-27 art. 6 JORF 30 décembre 1958
-
-_Cité par_:
-
-  - Code du travail maritime - art. 107 (V)
-
-_Codifié par_:
-
-  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 68
-
-Dispositions abrogées.
+L'autorité maritime peut, lors du payement des salaires, sur la demande du créancier ou du cessionnaire et selon la procédure
+prévue par le Code du travail, retenir la partie saisissable des salaires, profits et autres rémunérations des marins.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-_Abrogé par_:
-
-  - Ordonnance 58-1358 1958-12-27 art. 6 JORF 30 décembre 1958
-
-
-###### Article 69
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-_Abrogé par_:
-
-  - Ordonnance 58-1358 1958-12-27 art. 6 JORF 30 décembre 1958
+  - Loi du 13 décembre 1926, v. init.
 
 
 ## Chapitre 2 : Nourriture et couchage<a id=25></a>
