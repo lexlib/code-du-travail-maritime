@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1944-06-30
+Version Consolidée au 1945-11-03
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 14)](#2)
@@ -22,7 +22,7 @@ Version Consolidée au 1944-06-30
       - [Section 1 : Divers modes de rémunération des marins et règles de base à la liquidation des salaires (art. 34)](#19)
       - [Section 2 : Suspension et rétention des salaires (art. 48 à 50)](#20)
       - [Section 3 : Lieux et époques de liquidation et paiement des salaires (art. 52 à 57)](#21)
-      - [Section 4 : Avances, acomptes, délégations (art. 58)](#22)
+      - [Section 4 : Avances, acomptes, délégations (art. 58 à 62)](#22)
       - [Section 5 : Dettes des marins (art. 67 à 69)](#23)
         - [Saisies et cessions de salaires (art. 67 à 69)](#24)
     - [Chapitre 2 : Nourriture et couchage (art. 72 à 76)](#25)
@@ -1839,6 +1839,24 @@ _Codifié par_:
 _Cite_:
 
   - Code du travail maritime - art. 34 (M)
+
+
+###### Article 62
+
+Des délégations peuvent être consenties, en cours de voyage, dans les conditions et limites indiquées à l'article 61 ci-
+dessus, par les marins qui n'ont pas usé, lors de leur embarquement, de la faculté de déléguer. Leur demande est remise au
+capitaine ; elle est transmise, sans délai, par le capitaine à l'armateur. Mention en est faite au rôle d'équipage par
+l'autorité maritime.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Loi du 13 décembre 1926, v. init.
+
+_Cite_:
+
+  - Code du travail maritime - art. 61 (V)
 
 
 ### Section 5 : Dettes des marins<a id=23></a>
