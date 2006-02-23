@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-02-24
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5-2)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 15-2)](#2)
@@ -3538,9 +3538,9 @@ _Cite_:
 
 ###### Article 95
 
-Dans les ports métropolitains et sous réserve de l'application, le cas échéant, des dispositions spéciales du chapitre II ci-
+Dans les ports métropolitains et sous réserve de l'application, le cas échéant, des dispositions spéciales du chapitre 2 ci-
 après, la résiliation du contrat d'engagement a lieu par la volonté d'un seul des contractants dès l'expiration du délai de
-préavis fixé conformément à l'article 10. 
+préavis fixé conformément à l'article 10-1. 
 
 Cette résiliation donne lieu à indemnité s'il y a eu inobservation du délai de préavis ou si l'une des parties a abusé de son
 droit de résiliation. 
@@ -3556,17 +3556,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
+  - Ordonnance 82-267 1982-03-25 art. 1 JORF 27 mars 1982
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
+
+_Cite_:
+
+  - Code du travail maritime - art. 10-1
 
 _Cité par_:
 
   - Code du travail maritime - art. 100 (Ab)
   - Code du travail maritime - art. 102-17 (Ab)
   - Code du travail maritime - art. 109 (M)
-
-_Cite_:
-
-  - Code du travail maritime 102-1 à 102-21, 10
 
 
 ###### Article 96
