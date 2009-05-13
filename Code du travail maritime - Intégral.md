@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2009-05-14
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5-2)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 15-2)](#2)
@@ -3363,28 +3363,29 @@ _Cité par_:
 Est puni de 7 500 euros d'amende le fait, pour un armateur, de ne pas procéder au rapatriement d'un marin. La peine est
 portée à six mois d'emprisonnement et 15 000 euros d'amende en cas de récidive. 
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
-pénal, de l'infraction définie au précédent alinéa. Les peines encourues par les personnes morales sont : 
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
-
-2° Les peines mentionnées aux 5°,6° et 9° de l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, de
+l'infraction définie au présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code
+pénal, les peines prévues par les 5°, 6° et 9° de l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi du 13 décembre 1926, v. init.
+  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 50
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cite_:
 
   - Code pénal - art. 121-2 (V)
   - Code pénal - art. 131-38 (V)
   - Code pénal - art. 131-39 (V)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-50 (V)
 
 
 ## Chapitre 5 : Des créances et privilèges des marins<a id=14></a>
