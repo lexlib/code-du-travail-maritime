@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-06-20
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5-2)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 15-2)](#2)
@@ -16,15 +16,15 @@ Version Consolidée au 2009-05-14
     - [Chapitre 4 : Du rapatriement et de la conduite (art. 87 à 90-1)](#13)
     - [Chapitre 5 : Des créances et privilèges des marins (art. 91 à 92)](#14)
     - [Chapitre 6 : Des congés payés (art. 92-1)](#15)
-  - [Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat (art. 93 à 102-24)](#16)
-    - [Chapitre 1 : Dispositions communes à tous les contrats d'engagement (art. 93 à 102)](#17)
-    - [Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée (art. 102-1 à 102-21)](#18)
+  - [Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat (art. 94 à 102-24)](#16)
+    - [Chapitre 1 : Dispositions communes à tous les contrats d'engagement (art. 94 à 102)](#17)
+    - [Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée (art. 102-2 à 102-21)](#18)
     - [Chapitre 3 : Dispositions spéciales au contrat d'engagement à durée déterminée ou au voyage (art. 102-22 à 102-24)](#19)
   - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 103 à 119)](#20)
     - [Chapitre 1 : Dispositions spéciales applicables au capitaine (art. 103 à 109)](#21)
     - [Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans. (art. 110 à 117)](#22)
     - [Chapitre 3 : Dispositions spéciales applicables aux marins étrangers (art. 119)](#23)
-  - [Titre 7 : Des litiges entre armateurs et marins (art. 121)](#24)
+  - [Titre 7 : Des litiges entre armateurs et marins (art. 120 à 121)](#24)
   - [Titre 8 : Inspection du travail maritime. (art. 122)](#25)
   - [Titre 9 : Dispositions diverses (art. 133 à 134)](#26)
 # Titre 1 : Dispositions générales<a id=1></a>
@@ -385,9 +385,9 @@ Il doit indiquer si l'engagement est conclu pour une durée déterminée, pour u
 
 Si l'engagement est conclu pour une durée déterminée, le contrat doit contenir l'indication de cette durée. 
 
-Si l'engagement est conclu pour une durée déterminée ou indéterminée, le contrat doit fixer obligatoirement le délai de
-préavis à observer en cas de résiliation par l'une des parties. Ce délai, sauf dans les cas d'application de l'article 102-2,
-doit être le même pour les deux parties ; il ne peut être inférieur à vingt-quatre heures. 
+Le contrat doit fixer obligatoirement le délai de préavis à observer en cas de rupture par l'une des parties. Ce délai, sauf
+dans les cas d'application de l'article 102-2, doit être le même pour les deux parties ; il ne peut être inférieur à vingt-
+quatre heures. 
 
 Si l'engagement est conclu au voyage, le contrat doit désigner nominativement, par une indication suffisante, le port où le
 voyage prendra fin et fixer à quel moment des opérations commerciales et maritimes effectuées dans ce port le voyage sera
@@ -399,13 +399,25 @@ si le voyage n'est pas achevé.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi du 13 décembre 1926, v. init.
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 6
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-1 (V)
+  - Code des transports - art. L5542-3 (V)
+  - Code des transports - art. L5542-4 (V)
+  - Code des transports - art. L5542-8 (V)
+  - Code des transports - art. L5542-9 (V)
 
 _Cite_:
 
-  - Code du travail maritime - art. 102-2 (V)
+  - Code du travail maritime - art. 102-2
 
 _Cité par_:
 
@@ -628,6 +640,89 @@ _Cite_:
 
   - Code du travail maritime - art. 10-2 (V)
   - Code du travail maritime - art. 102-24 (V)
+
+
+###### Article 10-8
+
+Pour l'application des articles L. 1221-19 à L. 1221-21 du code du travail, ne sont décomptées dans la durée de la période
+d'essai que les périodes de travail à bord du navire dites d'embarquement effectif du marin. 
+
+La durée maximale de la période d'essai est de : 
+
+1° Pour les officiers, au sens des conventions et accords collectifs applicables dans les activités maritimes ou, à défaut de
+convention ou d'accord applicable, au sens du troisième alinéa de l'article 2 de la loi du 17 décembre 1926 portant code
+disciplinaire et pénal de la marine marchande, de quatre mois et, en cas de renouvellement, de huit mois ; 
+
+2° Pour les autres personnels de deux mois et, en cas de renouvellement, de quatre mois.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi du 17 décembre 1926
+  - Code du travail - art. L1221-19
+
+_Créé par_:
+
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 2
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-15 (V)
+
+
+###### Article 10-9
+
+Lorsqu'il est mis fin par l'employeur au contrat de travail en cours ou au terme de la période d'essai dans les conditions
+fixées à l'article L. 1221-25 du code du travail, la rupture du contrat ne peut pas prendre effet avant l'arrivée au premier
+port d'escale. Dans ce cas, l'armateur organise, à l'arrivée au premier port d'escale, le rapatriement ou la conduite du
+marin dans les conditions fixées aux articles 87 à 89.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 2
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-16 (V)
+
+_Cite_:
+
+  - Code du travail - art. L1221-25
+
+
+###### Article 10-10
+
+Lorsqu'il est mis fin à la période d'essai par le salarié dans les conditions fixées à l'article L. 1221-26 du code du
+travail, la fin de la période d'essai prend effet dans les conditions prévues à l'article 102.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 2
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-17 (V)
+
+_Cite_:
+
+  - Code du travail - art. L1221-26
 
 
 ###### Article 11
@@ -3193,7 +3288,7 @@ L'armateur organise le rapatriement du marin dans les cas suivants :
 
 2° A la fin de la période de préavis ; 
 
-3° Dans les cas de congédiement prévus à l'article 98 ou de débarquement pour motif disciplinaire ; 
+3° Dans les cas de débarquement pour motif disciplinaire ; 
 
 4° En cas de maladie, d'accident ou pour toute autre raison d'ordre médical nécessitant son débarquement ; 
 
@@ -3219,13 +3314,20 @@ profession de marin employé à bord.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
 _Modifié par_:
 
-  - Loi n°2006-10 du 5 janvier 2006 - art. 50
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 6
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-20 (V)
+  - Code des transports - art. L5542-29 (V)
+  - Code des transports - art. L5542-30 (V)
+  - Code des transports - art. L5549-1 (V)
 
 _Cité par_:
 
@@ -3234,7 +3336,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du travail maritime - art. 98 (V)
+  - Code du travail maritime - art. 98
 
 
 ###### Article 88
@@ -3476,46 +3578,6 @@ _Nouveaux textes_:
 
 ## Chapitre 1 : Dispositions communes à tous les contrats d'engagement<a id=17></a>
 
-###### Article 93
-
-Le contrat d'engagement conclu pour un temps déterminé prend normalement fin par l'expiration du temps pour lequel il a été
-conclu. 
-
-Le contrat d'engagement conclu pour la durée d'un voyage prend fin par l'accomplissement du voyage et par la rupture
-volontaire ou forcée du voyage. 
-
-Quelle que soit sa nature, le contrat d'engagement prend fin : 
-
-1° Par le décès du marin ; 
-
-2° Par le débarquement régulier du marin résultant notamment du consentement mutuel des parties, de la résiliation ou de la
-rupture du contrat dans les conditions et circonstances prévues aux articles ci-après du présent titre, de la résolution
-prononcée par jugement en vertu des dispositions de l'article 1184 du code civil, de la prise, du naufrage ou de
-l'innavigabilité du navire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
-
-_Abrogé par_:
-
-  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
-
-_Cite_:
-
-  - Code civil - art. 1184
-
-_Cité par_:
-
-  - Code du travail maritime - art. 102-1 (Ab)
-
-
 ###### Article 94
 
 Les dispositions des articles L. 321-1 à L. 321-11, L. 321-13-1, L. 321-14, L. 321-15, 
@@ -3558,194 +3620,29 @@ _Cite_:
   - Code du travail - art. L322-3 (Ab)
 
 
-###### Article 95
-
-Dans les ports métropolitains et sous réserve de l'application, le cas échéant, des dispositions spéciales du chapitre 2 ci-
-après, la résiliation du contrat d'engagement a lieu par la volonté d'un seul des contractants dès l'expiration du délai de
-préavis fixé conformément à l'article 10-1. 
-
-Cette résiliation donne lieu à indemnité s'il y a eu inobservation du délai de préavis ou si l'une des parties a abusé de son
-droit de résiliation. 
-
-Pour la fixation de l'indemnité, il est tenu compte des usages, de la nature des services du marin, du temps écoulé et, en
-général, de toutes les circonstances qui peuvent justifier l'existence et déterminer l'étendue du préjudice.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Ordonnance 82-267 1982-03-25 art. 1 JORF 27 mars 1982
-
-_Abrogé par_:
-
-  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
-
-_Cite_:
-
-  - Code du travail maritime - art. 10-1
-
-_Cité par_:
-
-  - Code du travail maritime - art. 100 (Ab)
-  - Code du travail maritime - art. 102-17 (Ab)
-  - Code du travail maritime - art. 109 (M)
-
-
-###### Article 96
-
-Pour l'application de l'article précédent au marin embarqué sur un navire armé dans un département ou territoire d'outre-mer
-sous le régime du présent code, les ports de ce département ou territoire sont regardés comme des ports métropolitains.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
-
-_Abrogé par_:
-
-  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
-
-
-###### Article 97
-
-Sous réserve de l'application, le cas échéant, des dispositions spéciales du chapitre 2 ci-après, la dénonciation faisant
-courir le délai de préavis résulte d'une déclaration écrite ou verbale qui est notifiée par la partie qui résilie le contrat
-d'engagement à l'autre partie.
-
-Cette déclaration est mentionnée au journal de bord. Lorsqu'elle est faite par écrit, elle donne lieu à la délivrance d'un
-reçu. Lorsqu'elle est verbale, elle doit être faite en présence de deux témoins qui contresignent le journal de bord.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
-
-_Abrogé par_:
-
-  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
-
-_Cite_:
-
-  - Code du travail maritime
-
-
-###### Article 98
-
-Dans les ports métropolitains, le capitaine peut congédier le marin sans autorisation de l'autorité chargée de l'inspection
-du travail maritime.
-
-Hors des ports métropolitains, il ne peut le faire qu'avec cette autorisation.
-
-Dans l'un et l'autre cas, la cause du congédiement est portée au rôle d'équipage.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
-
-_Cité par_:
-
-  - Code du travail maritime - art. 87 (V)
-
-
-###### Article 99
-
-Sous réserve de l'application, le cas échéant, des dispositions spéciales du chapitre 2 ci-après, le marin lié par un contrat
-à durée indéterminée et qui est congédié pour motif légitime n'a droit à aucune indemnité. Il peut être condamné à des
-dommages-intérêts si la rupture du contrat d'engagement a causé un préjudice à l'armateur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Abrogé par_:
-
-  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
-
-
-###### Article 100
-
-Le congédiement du marin lié par un contrat à durée indéterminée ouvre droit à une indemnité de résiliation lorsqu'il a lieu
-sans motif légitime. 
-
-Le congédiement avant le terme du contrat d'un marin lié par un contrat à durée déterminée ouvre droit, sauf en cas de faute
-lourde ou de force majeure, à une indemnité de résiliation en sus de celle qui est prévue par l'article 102-24. 
-
-L'indemnité de résiliation est fixée comme il est dit à l'article 95, sous réserve de l'application, le cas échéant, des
-dispositions spéciales du chapitre 2 ci-après. Elle peut aussi être fixée forfaitairement par le contrat d'engagement ;
-toutefois, la stipulation d'une indemnité forfaitaire n'est valable que si elle ne constitue pas une renonciation déguisée du
-marin à ses droits.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
-
-_Cité par_:
-
-  - Décret n°83-796 du 6 septembre 1983 - art. 3 (V)
-  - Code du travail maritime - art. 102-17 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
-
-_Cite_:
-
-  - Code du travail maritime - art. 102-24
-  - Code du travail maritime - art. 95
-
-
 ###### Article 101
 
-Le marin a le droit de demander la résiliation du contrat d'engagement pour inexécution des obligations de l'armateur.
-
-L'autorité chargée de l'inspection du travail maritime peut autoriser le marin à débarquer immédiatement pour motif grave.
+Le marin qui demande la résolution judiciaire du contrat pour inexécution des obligations de l'armateur peut être autorisé à
+débarquer immédiatement pour motif grave par l'autorité chargée de l'inspection du travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
 _Modifié par_:
 
-  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 6
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-39 (V)
 
 
 ###### Article 102
 
-En aucun cas, le droit pour le marin à résilier le contrat d'engagement ne peut avoir effet au terme du délai de préavis : 
+En aucun cas, le droit pour le marin à rompre le contrat d'engagement ne peut avoir effet au terme du délai de préavis : 
 
 1° Lorsque ce terme se place après le moment fixé par le capitaine du navire en partance pour le commencement du service par
 quarts en vue de l'appareillage ; toutefois, la faculté de quitter le service ne peut être refusée au marin, sauf
@@ -3757,81 +3654,38 @@ justifiées, vingt-quatre heures après l'arrivée du navire à son poste d'amar
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
 _Modifié par_:
 
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
-
-
-## Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée<a id=18></a>
-
-###### Article 102-1
-
-Il y a licenciement au sens du présent chapitre : 
-
-D'une part, en cas de résiliation du contrat liant à l'armateur le marin titularisé ou stabilisé dans son emploi en
-application d'une convention collective, que ce marin soit ou non embarqué ; 
-
-D'autre part, en cas de résiliation du contrat d'engagement maritime à durée indéterminée du marin justifiant chez le même
-armateur d'une ancienneté de services continus d'au moins un an dont six mois d'embarquement effectif et continu. Le non-
-renouvellement du contrat d'engagement à durée indéterminée de ce marin, dans des conditions et dans un délai fixés par voie
-réglementaire, est assimilé, en ce cas, à un licenciement. 
-
-Le délai fixé en application de l'alinéa précédent ne peut avoir pour effet de prolonger le précédent contrat d'engagement
-au-delà du terme prévu à l'article 93.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Créé par_:
-
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
-_Cité par_:
-
-  - Décret n°78-389 du 17 mars 1978 - art. 22 (V)
-  - Arrêté du 25 octobre 1978 - art. 3 (V)
-  - Arrêté du 25 octobre 1978 - art. 4 (V)
-  - Code du travail maritime - art. 102-19 (V)
-  - Code du travail maritime - art. 102-2 (V)
-  - Code du travail maritime - art. 102-7 (V)
-  - Code du travail maritime - art. 102-9 (V)
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 6
 
 _Abrogé par_:
 
-  - Ordonnance n°2009-717 du 18 juin 2009 - art. 3
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
-_Cite_:
+_Nouveaux textes_:
 
-  - Code du travail maritime - art. 93
+  - Code des transports - art. L5542-38 (V)
 
+
+## Chapitre 2 : Dispositions spéciales aux contrats à durée indéterminée<a id=18></a>
 
 ###### Article 102-2
 
 Pour l'appréciation des conditions d'ancienneté de services continus visées au présent chapitre, les conditions de l'article
 L. 122-10 du code du travail sont applicables. 
 
-Pour l'appréciation de la condition d'embarquement effectif et continu visée aux articles 102-1 et 102-4 sont totalisées les
-diverses périodes d'embarquement effectif du marin. N'est pas considérée comme interrompant la continuité de l'embarquement
-au service du même armateur l'absence motivée par les congés, les blessures reçues au service du navire ou les maladies
-contractées ou survenues au cours de l'embarquement. Toutefois, la durée de cette absence n'est pas prise en compte pour le
-calcul de la condition d'embarquement prévue ci-dessus.
+Pour l'appréciation de la condition d'embarquement effectif mentionnée à l'article 102-4 sont totalisées les diverses
+périodes d'embarquement effectif du marin.N'est pas considérée comme interrompant la continuité de l'embarquement au service
+du même armateur l'absence motivée par les congés, les blessures reçues au service du navire ou les maladies contractées ou
+survenues au cours de l'embarquement. Toutefois, la durée de cette absence n'est pas prise en compte pour le calcul de la
+condition d'embarquement prévue ci-dessus.
+
+**Nota:**
+
+L'article L122-10 a été abrogé par l'ordonnance n° 2007-329 du 12 mars 2007 et codifié sous les articles L1234-8 et L1234-11
+du code du travail.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Créé par_:
-
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
 
 _Cité par_:
 
@@ -3839,27 +3693,31 @@ _Cité par_:
   - Décret n°86-605 du 14 mars 1986 - art. 2 (V)
   - Code du travail maritime - art. 10-1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 3
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-40 (V)
+
 _Cite_:
 
-  - Code du travail - art. L122-10 (VT)
-  - Code du travail maritime - art. 102-1 (V)
+  - Code du travail - art. L122-10
+  - Code du travail maritime - art. 102-4 (V)
 
 
 ###### Article 102-3
 
-Le marin qui est licencié alors qu'il compte deux ans d'ancienneté ininterrompue au service du même armateur a droit, sauf en
+Le marin qui est licencié alors qu'il compte un an d'ancienneté ininterrompue au service du même armateur a droit, sauf en
 cas de faute grave, à une indemnité minimum de licenciement dont le taux et les modalités de calcul sont fixés par voie
 réglementaire.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Créé par_:
-
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
 
 _Cité par_:
 
@@ -3869,36 +3727,48 @@ _Cité par_:
   - Code du travail maritime - art. 102-5 (V)
   - Code du travail maritime - art. 102-8 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 3
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
 
 ###### Article 102-4
 
 Dans le cas de licenciement pour un motif autre qu'une faute grave, le marin a droit :
 
-A un délai-congé d'un mois, s'il justifie chez le même armateur de six mois au moins d'embarquement effectif et continu, et
-d'une ancienneté de services continus inférieure à deux ans ;
+A un délai-congé d'un mois, s'il justifie chez le même armateur de six mois au moins d'embarquement effectif, et d'une
+ancienneté de services continus inférieure à deux ans ;
 
 A un délai-congé de deux mois s'il justifie chez le même armateur d'une ancienneté de services continus d'au moins de deux
 ans.
 
 Les dispositions des alinéas précédents ne sont applicables qu'à défaut de loi, de contrat de travail, de convention
 collective de travail ou d'usages conduisant soit à un délai-congé, soit à une condition d'ancienneté de services ou
-d'embarquement effectif et continu plus favorable pour le marin intéressé.
+d'embarquement effectif plus favorable pour le marin intéressé.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Créé par_:
-
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
 
 _Cité par_:
 
   - Loi n°97-1051 du 18 novembre 1997 - art. 53 (VT)
   - Code du travail maritime - art. 102-2 (V)
   - Code du travail maritime - art. 102-7 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 3
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-43 (V)
 
 
 ###### Article 102-5
@@ -4030,29 +3900,28 @@ _Cite_:
 
 ###### Article 102-9
 
-La résiliation d'un contrat visé à l'article 102-1, à l'initiative du marin, ouvre droit, si elle est abusive, à des
-dommages-intérêts. 
+La résiliation d'un contrat à durée indéterminée, à l'initiative du marin, ouvre droit, si elle est abusive, à des dommages-
+intérêts. 
 
-En cas de litige, le juge se prononce conformément aux dispositions de l'article 102-14.
-
-**Nota:**
-
-L'article 102-14 du code du travail maritime a été abrogé par l'article 25 de la loi n° 86-1320 du 30 décembre 1986.
+En cas de litige, le juge se prononce conformément aux dispositions de l'article L. 1235-1 du code du travail.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi du 13 décembre 1926, v. init.
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 3
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5542-41 (V)
 
 _Cite_:
 
-  - Code du travail maritime - art. 102-1 (V)
-  - Code du travail maritime - art. 102-14 (Ab)
+  - Code du travail - art. L1235-1
 
 
 ###### Article 102-10
@@ -4124,27 +3993,22 @@ _Abrogé par_:
 ###### Article 102-19
 
 Lorsqu'un marin, mis par l'armateur au service duquel il était engagé à la disposition d'une filiale étrangère à laquelle il
-est lié par un contrat du type de ceux visés à l'article 102-1, est licencié par cette filiale, l'armateur doit assurer le
-rapatriement de ce marin et lui procurer un nouvel emploi compatible avec l'importance de ses fonctions précédentes au
-service de l'armateur. 
+est lié par un contrat à durée indéterminée, est licencié par cette filiale, l'armateur doit assurer le rapatriement de ce
+marin et lui procurer un nouvel emploi compatible avec l'importance de ses fonctions précédentes au service de l'armateur. 
 
 Si celui-ci entend néanmoins congédier ce marin, les dispositions du présent chapitre sont applicables. Le temps passé par le
 marin au service de la filiale est pris en compte pour le calcul des conditions d'ancienneté de services et de navigation
-visées à l'article 102-1 ainsi que pour le calcul du délai-congé et de l'indemnité de licenciement.
+ainsi que pour le calcul du délai-congé et de l'indemnité de licenciement.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Loi du 13 décembre 1926, v. init.
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 3
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
-_Cite_:
-
-  - Code du travail maritime - art. 102-1 (V)
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ###### Article 102-21
@@ -4801,6 +4665,30 @@ _Modifié par_:
 
 
 # Titre 7 : Des litiges entre armateurs et marins<a id=24></a>
+
+###### Article 120
+
+Les litiges mentionnés au quatrième alinéa de l'article L. 1237-14 du code du travail sont portés devant le tribunal
+d'instance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-717 du 18 juin 2009 - art. 4
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cite_:
+
+  - Code du travail - art. L1237-14
+
+_Cité par_:
+
+  - Code du travail maritime - art. 80 (V)
+
 
 ###### Article 121
 
