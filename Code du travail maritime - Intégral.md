@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 2009-06-20
+Version Consolidée au 2010-05-08
 ## Contenu: 
   - [Titre 1 : Dispositions générales (art. 1 à 5-2)](#1)
   - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 6 à 15-2)](#2)
@@ -1451,19 +1451,27 @@ _Cite_:
 ###### Article 26-2
 
 Le repos compensateur des marins salariés des entreprises de cultures marines est fixé dans les conditions prévues par les
-articles L. 713-9 et L. 713-10 du code rural. Un décret en Conseil d'Etat détermine les modalités d'application du présent
-article.
+articles L. 713-9 et L. 713-10 du code rural et de la pêche maritime. Un décret en Conseil d'Etat détermine les modalités
+d'application du présent article.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
 
 _Cité par_:
 
   - Décret n°99-724 du 3 août 1999 - art. 1 (M)
   - Décret n°99-724 du 3 août 1999 - art. 3 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-21 (V)
 
 _Cite_:
 
@@ -1527,14 +1535,10 @@ _Cite_:
 ###### Article 28-1
 
 Le repos hebdomadaire des marins salariés des entreprises de cultures marines est fixé dans les conditions prévues par les
-articles L. 714-1 et L. 714-2 du code rural. Un décret en Conseil d'Etat détermine les modalités d'application du présent
-article.
+articles L. 714-1 et L. 714-2 du code rural et de la pêche maritime. Un décret en Conseil d'Etat détermine les modalités
+d'application du présent article.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
 
 _Cité par_:
 
@@ -1543,7 +1547,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Rapport - art. 6 (V) JORF 22 juin 2000
+  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5544-21 (V)
 
 _Cite_:
 
