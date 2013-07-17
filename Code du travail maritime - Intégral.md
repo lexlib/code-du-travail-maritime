@@ -1,60 +1,16 @@
 # Code du travail maritime  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2013-07-18
 ## Contenu: 
-  - [Titre 2 : De la formation et de la constatation du contrat d'engagement (art. 9)](#1)
-  - [Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires (art. 21)](#2)
-  - [Titre 4 : Des obligations de l'armateur envers le marin (art. 40 à 76)](#3)
-    - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 40 à 54)](#4)
-      - [Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires (art. 40)](#5)
-      - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 54)](#6)
-    - [Chapitre 2 : De la nourriture et du couchage (art. 73 à 76)](#7)
-  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 113)](#8)
-    - [Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans. (art. 113)](#9)
-  - [Titre 9 : Dispositions diverses (art. 133-1)](#10)
-# Titre 2 : De la formation et de la constatation du contrat d'engagement<a id=1></a>
-
-###### Article 9
-
-Le marin signe le contrat d'engagement et en reçoit un exemplaire avant l'embarquement. L'armateur en adresse simultanément
-une copie à l'inspecteur du travail maritime, pour enregistrement.
-
-Le contrat d'engagement mentionne l'adresse et le numéro d'appel de l'inspection du travail maritime.
-
-Les clauses et stipulations du contrat d'engagement sont annexées au rôle d'équipage qui mentionne le lieu et la date
-d'embarquement.
-
-**Nota:**
-
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne le deuxième
-alinéa de l'article 9 (Fin de vigueur : date indéterminée).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°2006-10 du 5 janvier 2006 - art. 48 () JORF 6 janvier 2006
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-  - Loi n°2013-619 du 16 juillet 2013 - art. 31
-
-_Nouveaux textes_:
-
-  - Code des transports - art. L5542-3 (V)
-  - Code des transports - art. L5542-5 (V)
-
-_Cité par_:
-
-  - Code du travail maritime - art. 133-1 (V)
-
-
-# Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires<a id=2></a>
+  - [Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires (art. 21)](#1)
+  - [Titre 4 : Des obligations de l'armateur envers le marin (art. 40 à 76)](#2)
+    - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 40 à 54)](#3)
+      - [Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires (art. 40)](#4)
+      - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 54)](#5)
+    - [Chapitre 2 : De la nourriture et du couchage (art. 75 à 76)](#6)
+  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 113)](#7)
+    - [Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans. (art. 113)](#8)
+  - [Titre 9 : Dispositions diverses (art. 133-1)](#9)
+# Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires<a id=1></a>
 
 ###### Article 21
 
@@ -79,11 +35,11 @@ _Abrogé par_:
   - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
-# Titre 4 : Des obligations de l'armateur envers le marin<a id=3></a>
+# Titre 4 : Des obligations de l'armateur envers le marin<a id=2></a>
 
-## Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations<a id=4></a>
+## Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations<a id=3></a>
 
-### Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires<a id=5></a>
+### Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires<a id=4></a>
 
 ###### Article 40
 
@@ -101,7 +57,7 @@ _Codifié par_:
   - Loi du 13 décembre 1926, v. init.
 
 
-### Section 3 : Des lieux et époques de liquidation et du paiement des salaires<a id=6></a>
+### Section 3 : Des lieux et époques de liquidation et du paiement des salaires<a id=5></a>
 
 ###### Article 54
 
@@ -139,24 +95,7 @@ _Abrogé par_:
   - Loi n°2016-816 du 20 juin 2016 - art. 16 (V)
 
 
-## Chapitre 2 : De la nourriture et du couchage<a id=7></a>
-
-###### Article 73
-
-Sur tout bâtiment où les marins sont nourris par l'armateur, il doit y avoir un cuisinier apte à cet emploi, âgé de plus de
-dix-huit ans. Si l'équipage comprend plus de vingt hommes, le cuisinier ne peut être distrait de son emploi pour être affecté
-à un autre service du bord.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926
-
-_Abrogé par_:
-
-  - Loi n°2013-619 du 16 juillet 2013 - art. 31
-
+## Chapitre 2 : De la nourriture et du couchage<a id=6></a>
 
 ###### Article 75
 
@@ -201,9 +140,9 @@ _Abrogé par_:
   - Ordonnance n°2016-1686 du 8 décembre 2016 - art. 10
 
 
-# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=8></a>
+# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=7></a>
 
-## Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans.<a id=9></a>
+## Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans.<a id=8></a>
 
 ###### Article 113
 
@@ -259,11 +198,9 @@ _Nouveaux textes_:
   - Code des transports - art. L5544-29 (V)
 
 
-# Titre 9 : Dispositions diverses<a id=10></a>
+# Titre 9 : Dispositions diverses<a id=9></a>
 
 ###### Article 133-1
-
-Pour l'application à Mayotte de l'article 9, la seconde phrase du premier alinéa est supprimée. 
 
 Pour l'application de l'article 25-1, à défaut d'accord national professionnel ou d'accord de branche étendus, tels que
 prévus par cet article, applicables à Mayotte, la durée du travail est calculée sur une base annuelle de deux cent vingt-cinq
@@ -284,9 +221,9 @@ L'article 34 du code du travail maritime a été codifié aux articles L. 5544-3
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2010-1487 du 7 décembre 2010 - art. 29
+  - Loi n°2013-619 du 16 juillet 2013 - art. 31
 
 _Cite_:
 
