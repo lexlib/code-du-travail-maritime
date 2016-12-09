@@ -1,12 +1,12 @@
 # Code du travail maritime  
-Version Consolidée au 2013-07-18
+Version Consolidée au 2016-12-10
 ## Contenu: 
   - [Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires (art. 21)](#1)
-  - [Titre 4 : Des obligations de l'armateur envers le marin (art. 40 à 76)](#2)
+  - [Titre 4 : Des obligations de l'armateur envers le marin (art. 40 à 75)](#2)
     - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 40 à 54)](#3)
       - [Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires (art. 40)](#4)
       - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 54)](#5)
-    - [Chapitre 2 : De la nourriture et du couchage (art. 75 à 76)](#6)
+    - [Chapitre 2 : De la nourriture et du couchage (art. 75)](#6)
   - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 113)](#7)
     - [Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans. (art. 113)](#8)
   - [Titre 9 : Dispositions diverses (art. 133-1)](#9)
@@ -107,37 +107,6 @@ l'équipage.
 _Codifié par_:
 
   - Loi du 13 décembre 1926, v. init.
-
-
-###### Article 76
-
-Nul ne peut introduire de boissons alcooliques à bord sans l'autorisation du capitaine. 
-
-Il est interdit d'embarquer, pour la consommation de l'équipage, officiers compris, une quantité de boissons alcooliques
-supérieure à une quantité réglementaire qui est déterminée, pour chaque genre de navigation, par un arrêté ministériel.
-
-Toute boisson alcoolique introduite contrairement aux dispositions du paragraphe premier du présent article est confisquée
-par le capitaine et est vendue par l'autorité chargée de l'inspection du travail maritime au profit de la caisse des
-invalides, sans préjudice des sanctions disciplinaires ou pénales.
-
-Toute boisson alcoolique conservée à bord contrairement aux dispositions du paragraphe 2 du présent article est saisie par
-toute autorité ayant qualité pour constater les infractions à la police ou à la sécurité de la navigation, ou par les agents
-de l'administration des douanes, et est vendue au profit de la caisse des invalides, sans préjudice des sanctions
-disciplinaires ou pénales.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2016-1686 du 8 décembre 2016 - art. 10
 
 
 # Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=7></a>
