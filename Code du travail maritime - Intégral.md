@@ -1,15 +1,14 @@
 # Code du travail maritime  
-Version Consolidée au 2016-12-10
+Version Consolidée au 2016-12-20
 ## Contenu: 
   - [Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires (art. 21)](#1)
   - [Titre 4 : Des obligations de l'armateur envers le marin (art. 40 à 75)](#2)
-    - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 40 à 54)](#3)
+    - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 40)](#3)
       - [Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires (art. 40)](#4)
-      - [Section 3 : Des lieux et époques de liquidation et du paiement des salaires (art. 54)](#5)
-    - [Chapitre 2 : De la nourriture et du couchage (art. 75)](#6)
-  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 113)](#7)
-    - [Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans. (art. 113)](#8)
-  - [Titre 9 : Dispositions diverses (art. 133-1)](#9)
+    - [Chapitre 2 : De la nourriture et du couchage (art. 75)](#5)
+  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 113)](#6)
+    - [Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans. (art. 113)](#7)
+  - [Titre 9 : Dispositions diverses (art. 133-1)](#8)
 # Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires<a id=1></a>
 
 ###### Article 21
@@ -57,45 +56,7 @@ _Codifié par_:
   - Loi du 13 décembre 1926, v. init.
 
 
-### Section 3 : Des lieux et époques de liquidation et du paiement des salaires<a id=5></a>
-
-###### Article 54
-
-Lors du débarquement du marin mettant fin à son contrat d'engagement, l'autorité chargée de l'inspection du travail maritime
-reçoit les déclarations des parties sur le règlement des salaires. Il est fait mention au rôle d'équipage et sur le livret
-professionnel du marin de la déclaration faite, sans indication de somme.
-
-En aucun lieu, il ne peut être utilisé de moyens de paiement ayant pour objet de suppléer ou de remplacer les signes
-monétaires ayant cours légal. Si le paiement est fait à l'étranger en monnaie étrangère, il est effectué, sous le contrôle de
-l'autorité consulaire, au taux de change fixé pour les opérations de chancellerie.
-
-**Nota:**
-
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article 54
-(date indéterminée).
-
-**Liens relatifs à cet article**
-
-**Liens**:
-
-  - SPEC_APPLI: Dispositions réglementaires (Constitution art. 37)
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926, v. init.
-
-_Modifié par_:
-
-  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-  - Loi n°2016-816 du 20 juin 2016 - art. 16 (V)
-
-
-## Chapitre 2 : De la nourriture et du couchage<a id=6></a>
+## Chapitre 2 : De la nourriture et du couchage<a id=5></a>
 
 ###### Article 75
 
@@ -109,9 +70,9 @@ _Codifié par_:
   - Loi du 13 décembre 1926, v. init.
 
 
-# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=7></a>
+# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=6></a>
 
-## Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans.<a id=8></a>
+## Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans.<a id=7></a>
 
 ###### Article 113
 
@@ -167,7 +128,7 @@ _Nouveaux textes_:
   - Code des transports - art. L5544-29 (V)
 
 
-# Titre 9 : Dispositions diverses<a id=9></a>
+# Titre 9 : Dispositions diverses<a id=8></a>
 
 ###### Article 133-1
 
