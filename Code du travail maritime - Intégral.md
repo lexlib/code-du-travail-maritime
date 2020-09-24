@@ -1,14 +1,12 @@
 # Code du travail maritime  
-Version Consolidée au 2016-12-20
+Version Consolidée au 2020-09-25
 ## Contenu: 
   - [Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires (art. 21)](#1)
   - [Titre 4 : Des obligations de l'armateur envers le marin (art. 40 à 75)](#2)
     - [Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations (art. 40)](#3)
       - [Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires (art. 40)](#4)
     - [Chapitre 2 : De la nourriture et du couchage (art. 75)](#5)
-  - [Titre 6 : Dispositions spéciales applicables à certaines catégories de marins (art. 113)](#6)
-    - [Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans. (art. 113)](#7)
-  - [Titre 9 : Dispositions diverses (art. 133-1)](#8)
+  - [Titre 9 : Dispositions diverses (art. 133-1)](#6)
 # Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires<a id=1></a>
 
 ###### Article 21
@@ -70,65 +68,7 @@ _Codifié par_:
   - Loi du 13 décembre 1926, v. init.
 
 
-# Titre 6 : Dispositions spéciales applicables à certaines catégories de marins<a id=6></a>
-
-## Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans.<a id=7></a>
-
-###### Article 113
-
-Le travail de nuit est interdit aux marins âgés de moins de dix-huit ans ainsi qu'aux jeunes gens âgés de moins de dix-huit
-ans qui accomplissent des stages d'initiation ou d'application en milieu professionnel dans le cadre d'un enseignement
-alterné ou d'un enseignement professionnel. Les services de quart de nuit de 20 heures à 5 heures sont considérés comme
-travail de nuit.
-
-Un repos de neuf heures consécutives doit être accordé aux intéressés. Ce repos comprend obligatoirement la période qui se
-situe entre minuit et cinq heures du matin.
-
-Des dérogations aux dispositions des alinéas précédents peuvent être accordées par l'inspecteur du travail maritime, après
-avis du médecin des gens de mer, lorsque la formation le justifie.
-
-Pour les jeunes gens en formation âgés de moins de quinze ans le travail de nuit est interdit entre 20 heures et 6 heures.
-
-Les marins âgés de moins de dix-huit ans, ainsi que les jeunes gens âgés de moins de dix-huit ans qui accomplissent des
-stages d'initiation ou d'application en milieu professionnel dans le cadre d'un enseignement alterné ou d'un enseignement
-professionnel dans le service de la machine, ne peuvent être compris dans les services de quart.
-
-**Nota:**
-
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne au deuxième
-alinéa de l'article 113 les mots " après avis du médecin des gens de mer ". (Fin de vigueur : date indéterminée).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Loi du 13 décembre 1926
-
-_Cité par_:
-
-  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
-  - Décret n°2006-534 du 10 mai 2006 - art. 14 (VT)
-  - Code du travail maritime - art. 114 (V)
-  - Code du travail maritime - art. 117 (M)
-
-_Créé par_:
-
-  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 13 () JORF 14 juillet 2004
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-  - Ordonnance n°2020-1162 du 23 septembre 2020 - art. 3
-
-_Nouveaux textes_:
-
-  - Code des transports - art. L5544-27 (M)
-  - Code des transports - art. L5544-28 (V)
-  - Code des transports - art. L5544-29 (V)
-
-
-# Titre 9 : Dispositions diverses<a id=8></a>
+# Titre 9 : Dispositions diverses<a id=6></a>
 
 ###### Article 133-1
 
